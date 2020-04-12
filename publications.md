@@ -17,4 +17,6 @@ https://doi.org/10.1016/j.ijppaw.2019.04.011
 
 ### Talks
 
-Maxwell, TL et al. Effect of water supply on the tree biodiversity - soil nutrient availability relationship in forests along the soil profile, [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2019/orals/30819). Vienna, Austria, April 12, 2019
+**Maxwell, TL** et al. Effect of water supply on the tree biodiversity - soil nutrient availability relationship in forests along the soil profile, [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2019/orals/30819). Vienna, Austria, 12 April 2019
+
+**Maxwell, TL**. Basic Steps for Effective Data Visualization, Quebec Center for Biodiversity Sciences [R symposium](https://wiki.qcbs.ca/r_symposium_2019). Gault Nature Reserve, Canada, 11 Oct. 2019.
