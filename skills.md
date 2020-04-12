@@ -25,11 +25,11 @@
 
 _Supervisor_
 
+Ariane Belleau (May-December 2020) Bachelor's student
+
 Lucie Bon (January-June 2019) Master 2 student
 
 Laure Scolan (May-June 2020) Master 1 student
-
-Ariane Belleau (May-December 2020) Bachelor's student
 
 ### Languages
 - English (mother tongue)
