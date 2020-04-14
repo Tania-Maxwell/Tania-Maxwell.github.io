@@ -9,6 +9,11 @@ activities along the soil profile in an experimental forest.
 (Under Review, _Plant and Soil_). In situ fate of mineral N in the tree-soil-microorganism system 
 before and after budburst in 20 year-old _Quercus petraea_.
 
+Fanin N, **Maxwell TL**, Altinalmazis-Kondylis A, Bon L, Meredieu C, 
+Jactel H, Bakker MR, & Augusto L (In preparation). 
+Effect of a tree mixture and water availability on soil nutrients and extracellular enzyme activities 
+along the soil profile in an experimental forest.
+
 Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, 
 Pigage JC, & Pigage HK (2019). Host biology and environmental variables 
 differentially predict flea abundances for two rodent hosts in a plague-relevant system. 
