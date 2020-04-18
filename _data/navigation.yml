@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
+    url: / #set to root
+  - title: "Skills"
+    url: /skills/
+  - title: "Publications"
+    url: /publications/
+  - title: "Awards"
+    url: /awards/
   

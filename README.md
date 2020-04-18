@@ -3,3 +3,10 @@ Forked & detached from the Minimal Mistakes Jekyll Theme © 2016 Michael Rose an
 # Usage
 The most important file = _config.yml 
 Hash symbols for comments 
+
+minimal_mistakes_skin : choose one
+local: language
+title: set to
+
+masthead: where we have the tab names
+authorside bar
