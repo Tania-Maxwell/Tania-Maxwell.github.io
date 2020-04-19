@@ -1,6 +1,9 @@
 ---
 permalink: /publications/
+author_profile: false
 ---
+
+### Publications
 
 ### Journal Articles
 

@@ -48,7 +48,7 @@ author:
   name             : "Tania L. Maxwell"
   avatar           : "/img/pic_scotora_website.png"
   bio              : "PhD student at INRAE"
-  location         : "Bordeaux, France & Quebec, Canada"
+  location         : "Bordeaux, France & \n Quebec, Canada"
   email            :
   links:
     - label: "Email"

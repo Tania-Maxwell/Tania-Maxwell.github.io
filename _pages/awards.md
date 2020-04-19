@@ -1,5 +1,7 @@
 ---
 permalink: /awards/
+toc: false
+author_profile: false
 ---
 
 ### Awards & Grants

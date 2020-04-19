@@ -1,6 +1,9 @@
 ---
 permalink: /skills/
+author_profile: false
 ---
+
+### Skills
 
 ### Programming skills
 - R, Microsoft Office +++
