@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /about/ #set to root
+    url: / #set to root
   - title: "Skills"
     url: /skills/
   - title: "Publications"

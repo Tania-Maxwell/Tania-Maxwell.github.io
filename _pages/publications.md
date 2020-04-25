@@ -7,6 +7,7 @@ title: "Publications"
 ---
 
 ### Journal Articles
+<br>
 
 **Maxwell TL**, Augusto L, Bon L, Courbineau A, Altinalmazis-Kondylis A, Milin S, 
 Bakker MR, Jactel H, & Fanin N (Under Review, _Soil Biology and Biochemistry_). 
@@ -27,6 +28,7 @@ _International Journal for Parasitology: Parasites and Wildlife_, 9, 174–183.
 https://doi.org/10.1016/j.ijppaw.2019.04.011
 
 ### Talks
+<br>
 
 **Maxwell, TL** et al. Effect of water supply on the tree biodiversity - soil nutrient availability relationship in forests along the soil profile, [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2019/orals/30819). Vienna, Austria, 12 April 2019
 
