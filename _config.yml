@@ -64,7 +64,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tania-Maxwell"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-file-alt"
       url: "https://scholar.google.fr/citations?user=BnCknmEAAAAJ&hl=en&oi=ao"
     
 
@@ -74,6 +74,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tania-Maxwell"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/tania_maxwell7"
 
 
 # Reading Files
