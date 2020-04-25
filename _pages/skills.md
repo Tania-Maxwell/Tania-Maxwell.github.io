@@ -9,35 +9,36 @@ title: "Skills"
 - Git, Github, Markdown ++
 - Python, ULM, Matlab, ArcGIS +
 
-### Teaching Experience
+### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
 2020 | _Lecturer_ "Soil Ecology" Master Ecotoxicology, University of Bordeaux 
 
 2019 | _Instructor_, Quebec Center for Biodiversity Sciences [R workshop series](https://wiki.qcbs.ca/r), ULaval
+
 - "Introduction to R"
 - "Introduction to ggplot"
 
-### Outreach
+### <i class="fas fa-comments"></i> Outreach
 
 2020 | University of Bordeaux Finale MT180s (My PhD in 180s) [Jury Prize Laureate](https://youtu.be/0rGPKait_-g)
 
 2020 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, UBordeaux
 
-### Leadership & Supervision
+### <i class="fas fa-users"></i> Leadership 
 
 2020 | _Organization co-leader_ Lab-overarching R discussion network for PhD students
 
 2019 | _Vice-President_ Graduate Students in Forestry Club, ULaval
 
-_Supervisor_
+### <i class="fas fa-user-graduate"></i> Supervision
 
-Ariane Belleau (May-December 2020) Bachelor's student
+2019 | Ariane Belleau, Bachelor's student (May-December)
 
-Lucie Bon (January-June 2019) Master 2 student
+2019 | Lucie Bon, Master 2 student (January-June)
 
-Laure Scolan (May-June 2020) Master 1 student
+2019 | Laure Scolan, Master 1 student (May-June)
 
-### Languages
+### <i class="fas fa-globe-europe"></i> Languages
 - English (mother tongue)
 - French (mother tongue)
 - Spanish (fluent)
