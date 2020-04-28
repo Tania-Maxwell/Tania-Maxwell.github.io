@@ -6,7 +6,7 @@ title: "Awards & Grants"
 ---
 <br>
 
-2020-2021 | ![](/img/WTZ_Logo.png){:style="float: right"}![](/img/campus-france.png){:style="float: right"}
+2020-2021 | ![](/img/WTZ_Logo.png){:style="float: right"}![](/img/campus-france_logo.png){:style="float: right"}
 
 PHC Campus France Amadeus & WTZ Austria Collaboration Research Travel Grant 
 
