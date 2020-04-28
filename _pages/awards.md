@@ -16,5 +16,10 @@ title: "Awards & Grants"
 
 2019 | Association Française pour l'étude du sol (French soil society), Bourse de mobilité Albert Demolon (Conference International Travel Grant)
 
+![](/img/afes_logo.png){: .align-left}
+{:style="clear: left"}
+![](/img/afb_logo.png){: .align-right}
+{:style="clear: left"}
+
 2019 | Excellence initiative of Université de Bordeaux, International Mobility Grant
     

@@ -15,9 +15,6 @@ title: "Skills"
 
 2019 | _Instructor_, Quebec Center for Biodiversity Sciences [R workshop series](https://wiki.qcbs.ca/r), ULaval
 
-"  " | - "Introduction to R"
-"  " | - "Introduction to ggplot"
-
 ### <i class="fas fa-comments"></i> Outreach
 
 2020 | University of Bordeaux Finale MT180s (My PhD in 180s) [Jury Prize Laureate](https://youtu.be/0rGPKait_-g)
