@@ -6,8 +6,6 @@ title: "Awards & Grants"
 ---
 <br>
 
------------- | -------------
-
 2020-2021 | PHC Campus France Amadeus & WTZ Austria Collaboration Research Travel Grant 
 
 2020 | LabEx COTE Cluster of Excellence Mobility Grant

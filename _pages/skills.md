@@ -15,8 +15,8 @@ title: "Skills"
 
 2019 | _Instructor_, Quebec Center for Biodiversity Sciences [R workshop series](https://wiki.qcbs.ca/r), ULaval
 
-- "Introduction to R"
-- "Introduction to ggplot"
+"  " | - "Introduction to R"
+"  " | - "Introduction to ggplot"
 
 ### <i class="fas fa-comments"></i> Outreach
 
@@ -39,6 +39,7 @@ title: "Skills"
 2019 | Laure Scolan, Master 1 student (May-June)
 
 ### <i class="fas fa-globe-europe"></i> Languages
+
 - English (mother tongue)
 - French (mother tongue)
 - Spanish (fluent)
