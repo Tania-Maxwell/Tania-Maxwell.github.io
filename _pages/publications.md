@@ -10,12 +10,12 @@ title: "Publications"
 <br>
 
 **Maxwell TL**, Augusto L, Bon L, Courbineau A, Altinalmazis-Kondylis A, Milin S, 
-Bakker MR, Jactel H, & Fanin N (Under Review, _Soil Biology and Biochemistry_). 
+Bakker MR, Jactel H, & Fanin N (Under Review). 
 Effect of tree mixtures and water availability on soil nutrients and extracellular enzyme 
 activities along the soil profile in an experimental forest.
 
 **Maxwell TL**, Bazot S, Pinek L, Marmagne A, Laffont B, Vincent G, & Barthes L
-(Under Review, _Plant and Soil_). In situ fate of mineral N in the tree-soil-microorganism system 
+(Under Review). In situ fate of mineral N in the tree-soil-microorganism system 
 before and after budburst in 20 year-old _Quercus petraea_.
 
 Fanin N, **Maxwell TL**, Altinalmazis-Kondylis A, Bon L, Meredieu C, 
