@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Tania L. Maxwell"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Tania L. Maxwell"
+name                     : "Tania"
 description              : "Soil ecology - biogeochemistry - coding aficionado"
 url                      : "https://tania-maxwell.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -45,7 +45,7 @@ social:
 
 # Site Author
 author:
-  name             : ""
+  name             : "\n"
   avatar           : "/img/pic_scotora_website.png"
   bio              : "PhD student at INRAE"
   location         : "Bordeaux, France & \ Quebec, Canada"
