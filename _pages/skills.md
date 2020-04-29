@@ -1,6 +1,6 @@
 ---
 permalink: /skills/
-author_profile: false
+author_profile: true
 title: "Skills"
 ---
 

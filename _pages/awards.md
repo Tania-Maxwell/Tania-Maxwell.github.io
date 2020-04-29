@@ -6,9 +6,11 @@ title: "Awards & Grants"
 ---
 <br>
 
-PHC Campus France Amadeus & WTZ Austria Collaboration Research Travel Grant
 
-2020-2021 | ![](/img/WTZ_Logo.png){:style="float: right"}![](/img/campus-france_logo.png){:style="float: right"}
+
+		   | PHC Campus France Amadeus & WTZ Austria Collaboration Research Travel Grant
+2020-2021  | ![](/img/WTZ_Logo.png){:style="float: right"}![](/img/campus-france_logo.png){:style="float: right"}
+
 
 2020 | ![](/img/LabEx_logo.png){:style="float: center"} LabEx COTE Cluster of Excellence Mobility Grant
 
