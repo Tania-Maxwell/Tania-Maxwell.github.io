@@ -1,5 +1,5 @@
 ---
-permalink: /field_pictures/
+permalink: /docs/field_pictures/
 author_profile: true
 toc: false
 ---
