@@ -11,15 +11,15 @@ title: "Skills"
 
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
-2020 | _Lecturer_ "Soil Ecology" Master Ecotoxicology, University of Bordeaux 
+2020 | _Lecturer_ "Soil Ecology" Master Ecotoxicology, University of Bordeaux, March 23^rd^ 
 
 2019 | _Instructor_, Quebec Center for Biodiversity Sciences [R workshop series](https://wiki.qcbs.ca/r), ULaval
 
 ### <i class="fas fa-comments"></i> Outreach
 
-2020 | University of Bordeaux Finale MT180s (My PhD in 180s) [Jury Prize Laureate](https://youtu.be/0rGPKait_-g)
+2020 | _Jury Prix Laureate_ University of Bordeaux Finale MT180s [(My PhD in 180s)](https://youtu.be/0rGPKait_-g), March 10^th^
 
-2020 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, UBordeaux
+2020 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, UBordeaux, May 26^th^
 
 ### <i class="fas fa-users"></i> Leadership 
 
@@ -37,7 +37,7 @@ title: "Skills"
 
 ### <i class="fas fa-globe-europe"></i> Languages
 
-- English (mother tongue)
-- French (mother tongue)
-- Spanish (fluent)
-- German (intermediate)
+|- English (mother tongue)
+|- French (mother tongue)
+|- Spanish (fluent)
+|- German (intermediate)
