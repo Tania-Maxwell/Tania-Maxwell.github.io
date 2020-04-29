@@ -24,8 +24,7 @@ Jactel H, Bakker MR, & Augusto L (In preparation). Tree species mixture and high
 Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, 
 Pigage JC, & Pigage HK (2019). Host biology and environmental variables 
 differentially predict flea abundances for two rodent hosts in a plague-relevant system. 
-_International Journal for Parasitology: Parasites and Wildlife_, 9, 174–183. 
-https://doi.org/10.1016/j.ijppaw.2019.04.011
+_International Journal for Parasitology: Parasites and Wildlife_, 9, 174–183. <https://doi.org/10.1016/j.ijppaw.2019.04.011>
 
 ### Talks
 <br>
