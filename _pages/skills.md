@@ -19,7 +19,7 @@ toc: true
 
 ### <i class="fas fa-comments"></i> Outreach
 
-2020 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, UBordeaux, May<sup>th</sup>
+2020 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, UBordeaux, May 26<sup>th</sup>
 
 2020 | _Jury Prix Laureate_ University of Bordeaux Finale MT180s (My PhD in 180s), March 10<sup>th</sup>
 
