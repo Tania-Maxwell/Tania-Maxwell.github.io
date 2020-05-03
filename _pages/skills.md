@@ -2,12 +2,13 @@
 permalink: /skills/
 author_profile: true
 title: "Skills"
+toc: true
 ---
 
 ### <i class="fas fa-laptop-code"></i> Programming skills
-- R, Microsoft Office +++
-- Git, Github, Markdown ++
-- Python, ULM, Matlab, ArcGIS +
+|- R, Microsoft Office +++
+|- Git, Github, Markdown ++
+|- Python, ULM, Matlab, ArcGIS +
 
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
@@ -17,9 +18,12 @@ title: "Skills"
 
 ### <i class="fas fa-comments"></i> Outreach
 
-2020 | _Jury Prix Laureate_ University of Bordeaux Finale MT180s [(My PhD in 180s)](https://youtu.be/0rGPKait_-g), March 10^th^
-
 2020 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, UBordeaux, May 26^th^
+
+2020 | _Jury Prix Laureate_ University of Bordeaux Finale MT180s (My PhD in 180s), March 10^th^
+
+{% include video id="0rGPKait_-g" provider="youtube" %}
+
 
 ### <i class="fas fa-users"></i> Leadership 
 

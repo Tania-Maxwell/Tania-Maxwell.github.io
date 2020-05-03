@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 author_profile: true
+toc: true
 toc_label: ""
 toc_icon: "fas fa-newspaper"
 title: "Publications"

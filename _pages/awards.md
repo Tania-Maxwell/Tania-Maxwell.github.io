@@ -8,7 +8,7 @@ title: "Awards & Grants"
 
 2020-2021  | France-Austria Collaboration Research Travel Grant ![](/img/WTZ_Logo.png){:style="float: right"}![](/img/campus-france_logo.png){:style="float: right"} 
 
-2020 | LabEx COTE Cluster of Excellence Mobility Grant ![](/img/LabEx_logo.png){:style="float: right"} 
+<img align="right" src="/img/LabEx_logo.png"> 2020 | LabEx COTE Cluster of Excellence Mobility Grant
 
 2020 | Laureate Jury Prize University of Bordeaux Finale MT180s (My PhD in 180s) ![](/img/MT180s_logo.png){:style="float: right"} 
 
