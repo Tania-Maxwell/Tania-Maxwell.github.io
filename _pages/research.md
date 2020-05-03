@@ -7,19 +7,16 @@ title: "Research"
 ---
 
 ### PhD Project
-<br>
 
 <p align="center">
   <img width="600" src="/img/figure_phd.png">
 </p>
 
-<div style="text-align: justify"> 
-
 Forests are major terrestrial ecosystems that provide a multitude of ecosystem functions and services, such as biomass production, nutrient cycling and carbon storage. In this project, I aim to determine whether tree biodiversity may offset the negative effects of drought on nutrient cycling in forests. To answer this research question, two common garden sites belonging to the worldwide Tree Diversity Network (TreeDivNet) will be studied : [ORPHEE](https://sites.google.com/view/orpheeexperiment/home) in Southwestern France and [IDENT](http://www.treedivnet.ugent.be/ExpIDENT.html) in Sault-Ste.-Marie, Ontario, Canada. Both of these experimental sites manipulate tree diversity (species richness and functional diversity), and water resource (irrigation, with additional rain exclusion in Canada). 
 
 <figure class="third">
 	<a height="400" href="/img/resin_ssm.png"><img src="/img/resin_ssm.png"></a>
-    <a height="400" href="/img/15N_label.jpg"><img src="/img/15N_label.jpg"></a>
+    <a height="400" href="/img/15N_label.png"><img src="/img/15N_label.png"></a>
     <a height="400" href="/img/litter_sort.jpg"><img src="/img/litter_sort.jpg"></a>
     <figcaption> Recovered resin at IDENT in Nov. 2019 (left). <sup>15</sup>N soil labeling in an ORPHEE pure pine plot, March 2020 (mid). Sorting IDENT litter from a four-species mixture, Aug. 2019 (right).  </figcaption>
 </figure>
@@ -32,15 +29,13 @@ For my Master's thesis, I spent six months with the [Terrestrial Ecosystem Resea
 
 ### MSc. Project
 
-For my first year Master's project, we simultaneously quantified the fate of a soil applied <sup>15</sup>N solution into different tree compartments (fine roots, medium roots, xylem, phloem, branches, leaves), extractable soil, and the microbial biomass before and after budburst in mature oak trees. During this project, I helped with sample preparation (some grinding + microcapsules) and data analyses. Check out our paper from the study coming soon! 
+For my first year Master's project, we simultaneously quantified the fate of a soil applied <sup>15</sup>N solution into different tree compartments (fine roots, medium roots, xylem, phloem, branches, leaves), extractable soil, and the microbial biomass at several time points before and after budburst in mature oak trees. During this project, I helped with sample preparation (some grinding + microcapsules) and data analyses. Check out our paper from the study coming soon! 
 
-<p align="center">
-  <img width="600" src="/img/labo15N_1.png">
-</p>
-<figure class="half">
-    <a height="400" href="/img/labo15N_2.jpg"><img src="/img/labo15N_2.jpg"></a>
-    <a height="400" href="/img/labo15N_3.jpg"><img src="/img/labo15N_3.jpg"></a>
-    <figcaption> Classic lab selfie (above). Zoomed in oak phloem and xylem to be separated and ground up (left). Microcapsule and the joy of the .000 (right).  </figcaption>
+<figure class="third">
+	<a width= 50% href="/img/labo15N_2.jpg"><img src="/img/labo15N_2.jpg"></a>
+    <a width= 25% href="/img/labo15N_2.jpg"><img src="/img/labo15N_2.jpg"></a>
+    <a width=25% href="/img/labo15N_3.jpg"><img src="/img/labo15N_3.jpg"></a>
+    <figcaption> Classic lab selfie (left). Zoomed in oak phloem and xylem to be separated and ground up (mid). Microcapsule and the joy of the .000 (right).  </figcaption>
 </figure>
 
 ### Summer with the chipmunks
@@ -53,5 +48,3 @@ My first taste of research was the one and only [Tali Hammond](https://tthammond
     <a height="400" href="/img/chipmunk3.png"><img src="/img/chipmunk3.png"></a>
     <figcaption> All ready to hike to one of our base camps (left). May Lake (mid) and Cathedral Lake (right), Yosemite National Park, CA. </figcaption>
 </figure>
-
-</div>
