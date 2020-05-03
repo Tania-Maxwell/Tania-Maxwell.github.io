@@ -3,7 +3,7 @@ permalink: /about_me/
 author_profile: true
 title: "Welcome!"
 ---
-I am a 2nd year PhD student at the French National Research Institute for Agriculture, Food and Environment (INRAE), in a double-degree program focused on Biogeochemistry and Ecosystems at the [Université de Bordeaux](https://ed-environnements.u-bordeaux.fr/), and Forest Sciences at the [Université Laval](https://www.sbf.ulaval.ca/doctorat-en-sciences-forestieres) in Québec, Canada. <img align="right" src="/img/pic_scotora_website_mini.png"> 
+<img align="right" src="/img/pic_scotora_website_mini.png"> I am a 2nd year PhD student at the French National Research Institute for Agriculture, Food and Environment (INRAE), in a double-degree program focused on Biogeochemistry and Ecosystems at the [Université de Bordeaux](https://ed-environnements.u-bordeaux.fr/), and Forest Sciences at the [Université Laval](https://www.sbf.ulaval.ca/doctorat-en-sciences-forestieres) in Québec, Canada. 
 
 <br>
 
