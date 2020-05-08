@@ -39,8 +39,8 @@ For my first year Master's project, we simultaneously quantified the fate of a s
 
 <figure class="third">
 	<a height="400"  href="/img/labo15N_1.jpg"><img src="/img/labo15N_1.jpg"></a>
-    <a height="400" href="/img/labo15N_1.jpg"><img src="/img/labo15N_2.jpg"></a>
-    <a height="400" href="/img/labo15N_1.jpg"><img src="/img/labo15N_3.jpg"></a>
+    <a height="400" href="/img/labo15N_2.jpg"><img src="/img/labo15N_2.jpg"></a>
+    <a height="400" href="/img/labo15N_3.jpg"><img src="/img/labo15N_3.jpg"></a>
     <figcaption> (A) Classic lab selfie (left). (B) Zoomed in oak phloem and xylem to be separated and ground up. (C) Microcapsule and the joy of the .000.  </figcaption>
 </figure>
 
