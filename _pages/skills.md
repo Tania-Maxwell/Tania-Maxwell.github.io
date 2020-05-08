@@ -9,7 +9,7 @@ toc: true
 
 |- R, Microsoft Office +++
 |- Git, Github, Markdown ++
-|- Python, ULM, Matlab, ArcGIS +
+|- Python, ArcGIS, ULM, Matlab +
 
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
