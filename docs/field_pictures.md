@@ -43,11 +43,10 @@ More information about this field site [here](http://www.treedivnet.ugent.be/Exp
     <figcaption> Mid-May, late July and early November 2019. </figcaption>
 </figure>   
 
-<figure class="full">
-	<a height="400" href="/img/IDENT_small.png"><img src="/img/IDENT_small.png"></a>
-	<figcaption> Gutters were installed between the trees for a 25% rain exclusion treatment. </figcaption>
-</figure>   
-
+<p align="center">
+  <img width="600" src="/img/IDENT.png">
+  <figcaption> Gutters were installed between the trees for a 25% rain exclusion treatment. </figcaption>
+</p>
 
 <figure class="third">
 	<a height="400" href="/img/july_traps.jpg"><img src="/img/july_traps.jpg"></a>
