@@ -10,4 +10,6 @@ main:
     url: /publications/
   - title: "Awards"
     url: /awards/
+  - title: "Field Pictures"
+    url: /docs/field_pictures/
   

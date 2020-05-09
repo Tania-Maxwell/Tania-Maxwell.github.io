@@ -23,10 +23,10 @@ More information about this field site [here](https://sites.google.com/view/orph
 </figure>   
 
 <figure class="third">
-	<a height="400" href="/img/orphee_raison_group.jpg"><img src="/img/orphee_raison_group.jpg"></a>
+	<a height="400" href="/img/orphee_raison_core.jpg"><img src="/img/orphee_raison_core.jpg"></a>
     <a height="400" href="/img/orphee_me_resine.png"><img src="/img/orphee_me_resine.png"></a>
     <a height="400" href="/img/orphee_resine.png"><img src="/img/orphee_resine.png"></a>
-    <figcaption> (A) Setting up the soil incubation cores. (B & C) Recovered ion-exchange resin after its six month incubation. </figcaption>
+    <figcaption> (A) Soil incubation core. (B & C) Recovered ion-exchange resin after its six month incubation. </figcaption>
 </figure>   
 
 Big thank you to all from the INRAE team, who helped for both field and lab work: Malika Aimaiti, Andreas Altinalmazis-Kondylis, Laurent Augusto, Mark Bakker, Lucie Bon, Bastien Castagneyrol, Coralie Chesseron, Adèle Courbineau, Léa Delmas, Nicolas Fanin, Nathalie Gallegos, Ulysse Gaudaré, Hervé Jactel, Marko Kvakic, Cathy Lambrot, Soline Martin-Blangy, Kathina Müssig, Sylvie Milin, Sylvie Niollet, Christophe Poilleux, Pablo Raguet, Laura Scolan, Pierre Trichet, and David Vidal.
@@ -44,14 +44,15 @@ More information about this field site [here](http://www.treedivnet.ugent.be/Exp
 </figure>   
 
 <figure class="full">
-	<a height="400" href="/img/IDENT.png"><img src="/img/IDENT.png"></a>
+	<a height="400" href="/img/IDENT_small.png"><img src="/img/IDENT_small.png"></a>
 	<figcaption> Gutters were installed between the trees for a 25% rain exclusion treatment. </figcaption>
 </figure>   
 
+
 <figure class="third">
-	<a height="400" href="/img/july_traps.jpg"><img src="/img/ssm_may.jpg"></a>
-    <a height="400" href="/img/july_alison.jpg"><img src="/img/ssm_july.jpg"></a>
-    <a height="400" href="/img/july_me.jpg"><img src="/img/ssm_nov.jpg"></a>
+	<a height="400" href="/img/july_traps.jpg"><img src="/img/july_traps.jpg"></a>
+    <a height="400" href="/img/july_alison.jpg"><img src="/img/july_alison.jpg"></a>
+    <a height="400" href="/img/july_me.jpg"><img src="/img/july_me.jpg"></a>
     <figcaption> (A) Litter traps sitting in a birch-maple plot. (B) Sampling pine needles and (C) larch needles early August for nutrient analyses. </figcaption>
 </figure>   
 
@@ -61,5 +62,5 @@ More information about this field site [here](http://www.treedivnet.ugent.be/Exp
     <figcaption> (A) Post-bear training with the field work team, saying "Woah Bear". (B) Might November field team, who braved the -18°C and early snow to recover the ion-exchange resins and litter traps. </figcaption>
 </figure>  
 
-Another big thank you to the team in Canada: Bill Parker and Matt (Ontario Forest Research Institute); Ariane Belleau, Marie Coyea, Marie-Laurence Dame, Patrick Leclerc, Alison Munson,  Clémentine Pernot, Manuella Strukelj-Humphery (U Laval),  Benoit Gendreau-Berthiaume (Institut des Sciences de la Forêt tempérée), and Laura Rose (U Freiburg). 
+Another big thank you to the team in Canada: Bill Parker and Matt (Ontario Forest Research Institute); Ariane Belleau, Marie Coyea, Marie-Laurence Dame, Patrick Leclerc, Alison Munson,  Clémentine Pernot, Manuella Strukelj-Humphery (Laval University),  Benoit Gendreau-Berthiaume (Institut des Sciences de la Forêt tempérée), and Laura Rose (Freiburg University). 
 
