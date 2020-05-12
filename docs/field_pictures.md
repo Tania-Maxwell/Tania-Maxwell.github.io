@@ -12,7 +12,7 @@ More information about this field site [here](https://sites.google.com/view/orph
 <figure class="half">
 	<a height="400" href="/img/orphee_above.jpg"><img src="/img/orphee_above.jpg"></a>
 	<a height="400" href="/img/orphee_laurent.jpg"><img src="/img/orphee_laurent.jpg"></a>
-	<figcaption> (A) Orphee from above, April 2019 (c) Raphael Segura. (B) Walking between the pure pine and pure birch monocultre plots. </figcaption>
+	<figcaption> (A) Orphee from above, April 2019 <i>(c) Raphael Segura </i>. (B) Walking between the pure pine and pure birch monocultre plots. </figcaption>
 </figure>   
 
 <figure class="third">
