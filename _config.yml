@@ -25,7 +25,7 @@ url                      : "https://tania-maxwell.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
-logo                     : "/img/logo_recyclage.png" # path of logo image to display in the masthead, e.g. 
+logo                     : "/img/research_logo_clear.png" # path of logo image to display in the masthead, e.g. 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 
 words_per_minute         : 200
