@@ -48,15 +48,15 @@ author:
   name             : "\n"
   avatar           : "/img/pic_scotora_website.png"
   bio              : "PhD student at INRAE"
-  location         : "Bordeaux, France & \ Quebec, Canada"
+  location         : "Bordeaux, France & Quebec, Canada"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+    - label: "tania.maxwell [] inrae.fr"
+      icon: "fas fa-fw fa-envelope"
+      url: "\n"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://tania-maxwell.github.io"
+      #url: "https://tania-maxwell.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tania_maxwell7"

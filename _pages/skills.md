@@ -9,7 +9,7 @@ toc: true
 
 |- R, Microsoft Office +++
 |- Git, Github, Markdown ++
-|- Python, ArcGIS, ULM, Matlab +
+|- Python, ArcGIS, ULM, Matlab, HTML +
 
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
@@ -40,7 +40,7 @@ toc: true
 
 2019 | Lucie Bon, Master 2 student (January-June)
 
-2019 | Laure Scolan, Master 1 student (May-June)
+2019 | Laura Scolan, Master 1 student (May-June)
 
 ### <i class="fas fa-globe-europe"></i> Languages
 
