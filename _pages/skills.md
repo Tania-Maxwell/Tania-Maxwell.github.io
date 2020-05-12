@@ -5,11 +5,18 @@ title: "Skills"
 toc: true
 ---
 
-### <i class="fas fa-laptop-code"></i> Programming skills
+### <i class="fas fa-laptop-code"></i> Computing skills
 
-|- R, Microsoft Office +++
-|- Git, Github, Markdown ++
-|- Python, ArcGIS, ULM, Matlab, HTML +
+|- **R** -  Data analysis, programming, statistics & data visualization, RStudio, RMarkdown, ggplot2, tidyverse, lme4
+|- **Tools** - Git & Github, ArcGIS
+|- **Basics** - Python, ULM, Matlab, HTML
+
+### <i class="fas fa-globe-europe"></i> Languages
+
+|- English (mother tongue)
+|- French (mother tongue)
+|- Spanish (fluent)
+|- German (intermediate)
 
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
@@ -42,9 +49,3 @@ toc: true
 
 2019 | Laura Scolan, Master 1 student (May-June)
 
-### <i class="fas fa-globe-europe"></i> Languages
-
-|- English (mother tongue)
-|- French (mother tongue)
-|- Spanish (fluent)
-|- German (intermediate)

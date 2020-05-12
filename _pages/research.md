@@ -23,7 +23,7 @@ In the first section of the project, we aim to determine whether tree biodiversi
   <img width="600" src="/img/figure_phd_clear.png">
 </p>
 
-### MSc. Thesis (Project II)
+### MSc Thesis (Project II)
 
 For my Master's thesis, I spent six months with the [Terrestrial Ecosystem Research](https://ter.csb.univie.ac.at/) team at the University of Vienna, supervised by [Wolfgang Wanek](https://ter.csb.univie.ac.at/people/wolfgang-wanek). During this time, I investigated the effect of the global changes on gross organic nitrogen processes. To do so, soil samples were collected from a global change facility in a managed montane grassland in Austria that had been simulating elevated CO<sub>2</sub> and temperature for four years, with an additional drought and rewetting treatment. I measured gross protein depolymerization and amino acid utilization rates using a novel high throughoutput isotope pool dilution approach ([Noll et al. 2019](https://doi.org/10.1016/j.soilbio.2018.12.005)). I am continuing to collaborated with Prof. Wanek and have planned a two-month stay in the TER lab in 2021, to measure gross organic nitrogen rates in the context of my PhD project. 
 
