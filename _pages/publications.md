@@ -10,7 +10,7 @@ title: "Publications"
 ### Journal Articles
 <br>
 
-**Maxwell TL**, Augusto L, Bon L, Courbineau A, Altinalmazis-Kondylis A, Milin S, Bakker MR, Jactel H, & Fanin N (Accepted). Effect of a tree mixture and water availability on soil nutrients and extracellular enzyme activities along the soil profile in an experimental forest.
+**Maxwell TL**, Augusto L, Bon L, Courbineau A, Altinalmazis-Kondylis A, Milin S, Bakker MR, Jactel H, & Fanin N (2020). Effect of a tree mixture and water availability on soil nutrients and extracellular enzyme activities along the soil profile in an experimental forest. _Soil Biology and Biochemistry_. <https://doi.org/10.1016/j.soilbio.2020.107864>
 
 **Maxwell TL**, Bazot S, Pinek L, Marmagne A, Laffont B, Vincent G, & Barthes L (Under Review). In situ fate of mineral N in the tree-soil-microorganism system before and after budburst in 20 year-old _Quercus petraea_.
 
