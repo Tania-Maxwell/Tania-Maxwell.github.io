@@ -28,7 +28,7 @@ toc: true
 
 2020 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, University of Bordeaux, May 26<sup>th</sup> (_canceled_)
 
-2020 | _Jury Prize Laureate_ University of Bordeaux Finale MT180s (My PhD in 180s), March 10<sup>th</sup>
+2020 | _Jury Prize Laureate_ University of Bordeaux Finale MT180s (My PhD in 180 seconds), March 10<sup>th</sup>
 
 {% include video id="0rGPKait_-g" provider="youtube" %}
 
