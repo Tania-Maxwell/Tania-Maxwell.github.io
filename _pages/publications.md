@@ -12,7 +12,7 @@ title: "Publications"
 
 **Maxwell TL**, Augusto L, Bon L, Courbineau A, Altinalmazis-Kondylis A, Milin S, Bakker MR, Jactel H, & Fanin N (2020). Effect of a tree mixture and water availability on soil nutrients and extracellular enzyme activities along the soil profile in an experimental forest. _Soil Biology and Biochemistry_ 148, 107864. <https://doi.org/10.1016/j.soilbio.2020.107864>
 
-**Maxwell TL**, Bazot S, Pinek L, Marmagne A, Laffont B, Vincent G, & Barthes L (Accepted). In situ fate of mineral N in the tree-soil-microorganism system before and after budburst in 20-year-old _Quercus petraea_ (Matt.) Liebl. _Plant and Soil_.
+**Maxwell TL**, Bazot S, Pinek L, Marmagne A, Laffont B, Vincent G, & Barthes L (2020). In situ fate of mineral N in the tree-soil-microorganism system before and after budburst in 20-year-old _Quercus petraea_ (Matt.) Liebl. _Plant and Soil_. <https://doi.org/10.1007/s11104-020-04610-4>
 
 Fanin N, **Maxwell TL**, Altinalmazis-Kondylis A, Bon L, Meredieu C, Jactel H, Bakker MR, & Augusto L (Under Review). Tree species mixture and high water availability increase soil carbon stocks in a temperate podzol.  
 
@@ -32,6 +32,5 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 </p>
 
 ### Referee activity 
-<br>
 
 Journal referee: _Ecology and Evolution_  

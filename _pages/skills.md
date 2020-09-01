@@ -7,7 +7,7 @@ toc: true
 
 ### <i class="fas fa-laptop-code"></i> Computing skills
 
-|- **R** -  Data analysis, programming, statistics & data visualization, RStudio, RMarkdown, ggplot2, tidyverse, lme4
+|- **R** -  Data analysis, programming, statistics & data visualization, RStudio, RMarkdown, ggplot2, dplyr, tidyr, forcats, lme4
 |- **Tools** - Git & Github, ArcGIS
 |- **Basics** - Python, ULM, Matlab, HTML
 
@@ -19,6 +19,10 @@ toc: true
 |- German (intermediate)
 
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
+
+2020 | _Course Developper and Instructor_ "R basics and statistical testing", Master Biology Agrosciences, University of Bordeaux, five lectures between Oct. 2 <sup>nd</sup> - Nov. 6<sup>th</sup> 
+
+2020 | _Intervener_ "Agriculture and Global Change", Bordeaux Sciences Agro, Sept. 18<sup>th</sup> 
 
 2020 | _Lecturer_ "Soil Ecology" Master Ecotoxicology, University of Bordeaux, March 23<sup>rd</sup> 
 
