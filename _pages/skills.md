@@ -20,7 +20,7 @@ toc: true
 
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
-2020 | _Course Developper and Instructor_ "R basics and statistical testing", Master Biology Agrosciences, University of Bordeaux, five lectures between Oct. 2 <sup>nd</sup> - Nov. 6<sup>th</sup> 
+2020 | _Course Developer and Instructor_ "R basics and statistical testing", Master Biology Agrosciences, University of Bordeaux, five lectures between Oct. 2 <sup>nd</sup> - Nov. 6<sup>th</sup> 
 
 2020 | _Intervener_ "Agriculture and Global Change", Bordeaux Sciences Agro, Sept. 18<sup>th</sup> 
 

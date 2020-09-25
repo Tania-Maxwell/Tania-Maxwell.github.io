@@ -29,7 +29,7 @@ More information about this field site [here](https://sites.google.com/view/orph
     <figcaption> (A) Soil incubation core. (B & C) Recovered ion-exchange resin after its six month incubation. </figcaption>
 </figure>   
 
-Big thank you to all from the INRAE team, who helped for both field and lab work: Malika Aimaiti, Andreas Altinalmazis-Kondylis, Laurent Augusto, Mark Bakker, Lucie Bon, Bastien Castagneyrol, Coralie Chesseron, Adèle Courbineau, Léa Delmas, Nicolas Fanin, Nathalie Gallegos, Ulysse Gaudaré, Hervé Jactel, Marko Kvakic, Cathy Lambrot, Soline Martin-Blangy, Kathina Müssig, Sylvie Milin, Sylvie Niollet, Christophe Poilleux, Pablo Raguet, Laura Scolan, Pierre Trichet, and David Vidal.
+Big thank you to all from the INRAE team, who helped for both field and lab work: Malika Aimaiti, Andreas Altinalmazis-Kondylis, Laurent Augusto, Mark Bakker, Lucie Bon, Bastien Castagneyrol, Coralie Chesseron, Adèle Courbineau, Léa Danies, Léa Delmas, Nicolas Fanin, Nathalie Gallegos, Ulysse Gaudaré, Julien Hennequart, Hervé Jactel, Marko Kvakic, Cathy Lambrot, Soline Martin-Blangy, Kathina Müssig, Sylvie Milin, Sylvie Niollet, Maëva Pastoret, Christophe Poilleux, Pierre Pujos, Pablo Raguet, Laura Scolan, Pierre Trichet, and David Vidal. Additional thanks to Wolfgang Wanek (TER, University of Vienna) for help with method development. 
 
 
 ### IDENT, Sault Ste. Marie, ON Canada 
@@ -61,5 +61,5 @@ More information about this field site [here](http://www.treedivnet.ugent.be/Exp
     <figcaption> (A) Post-bear training with the field work team, saying "Woah Bear". (B) Might November field team, who braved the -18°C and early snow to recover the ion-exchange resins and litter traps. </figcaption>
 </figure>  
 
-Another big thank you to the team in Canada: Bill Parker and Matt (Ontario Forest Research Institute); Ariane Belleau, Marie Coyea, Marie-Laurence Dame, Patrick Leclerc, Alison Munson,  Clémentine Pernot, Manuella Strukelj-Humphery (Laval University),  Benoit Gendreau-Berthiaume (Institut des Sciences de la Forêt tempérée), and Laura Rose (Freiburg University). 
+Another big thank you to the team in Canada: Bill Parker and Matt (Ontario Forest Research Institute), Ariane Belleau, Marie Coyea, Marie-Laurence Dame, Raphael Gaudreau, Patrick Leclerc, Alison Munson, Clémentine Pernot, Manuella Strukelj-Humphery (Laval University), Benoit Gendreau-Berthiaume (Institut des Sciences de la Forêt tempérée), and Laura Rose (Freiburg University). 
 

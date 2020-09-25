@@ -35,7 +35,7 @@ For my Master's thesis, I spent six months with the [Terrestrial Ecosystem Resea
 
 ### Master Project I
 
-For my first year Master's project, we simultaneously quantified the fate of a soil applied <sup>15</sup>N solution incorporated into different tree compartments (fine roots, medium roots, xylem, phloem, branches, leaves), extractable soil, and the microbial biomass at several time points before and after budburst in mature oak trees. During this project, I helped with sample preparation (grinding + microcapsule weighing) and data analyses. Check out our paper from the study coming soon! 
+For my first year Master's project, we simultaneously quantified the fate of a soil applied <sup>15</sup>N solution incorporated into different tree compartments (fine roots, medium roots, xylem, phloem, branches, leaves), extractable soil, and the microbial biomass at several time points before and after budburst in mature oak trees. During this project, I helped with sample preparation (grinding + microcapsule weighing), data analyses, and writing. Before and after budburst, we found that the microbial compartment was the main pool of the recovered <sup>15</sup>N, and yet the soil-absorbed <sup>15</sup>N still significantly contributed to the new leaf nitrogen pool at budburst. Find out more [here](https://doi.org/10.1007/s11104-020-04610-4).
 
 <figure class="third">
 	<a height="400"  href="/img/labo15N_1.jpg"><img src="/img/labo15N_1.jpg"></a>
