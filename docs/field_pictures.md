@@ -12,7 +12,7 @@ More information about this field site [here](https://sites.google.com/view/orph
 <figure class="half">
 	<a height="400" href="/img/orphee_above.jpg"><img src="/img/orphee_above.jpg"></a>
 	<a height="400" href="/img/orphee_laurent.jpg"><img src="/img/orphee_laurent.jpg"></a>
-	<figcaption> (A) Orphee from above, April 2019 <i>(c) Raphael Segura </i>. (B) Walking between the pure pine and pure birch monocultre plots. </figcaption>
+	<figcaption> (A) Orphee from above, April 2019 <i>(c) Raphael Segura </i>. (B) Walking between the pure pine and pure birch monoculture plots. </figcaption>
 </figure>   
 
 <figure class="third">
@@ -29,7 +29,9 @@ More information about this field site [here](https://sites.google.com/view/orph
     <figcaption> (A) Soil incubation core. (B & C) Recovered ion-exchange resin after its six month incubation. </figcaption>
 </figure>   
 
-Big thank you to all from the INRAE team, who helped for both field and lab work: Malika Aimaiti, Andreas Altinalmazis-Kondylis, Laurent Augusto, Mark Bakker, Lucie Bon, Bastien Castagneyrol, Coralie Chesseron, Adèle Courbineau, Léa Danies, Léa Delmas, Nicolas Fanin, Nathalie Gallegos, Ulysse Gaudaré, Julien Hennequart, Hervé Jactel, Marko Kvakic, Cathy Lambrot, Soline Martin-Blangy, Kathina Müssig, Sylvie Milin, Sylvie Niollet, Maëva Pastoret, Christophe Poilleux, Pierre Pujos, Pablo Raguet, Laura Scolan, Pierre Trichet, and David Vidal. Additional thanks to Wolfgang Wanek (TER, University of Vienna) for help with method development. 
+Big thank you to all from the INRAE team, who helped for both field and lab work: Malika Aimaiti, Andreas Altinalmazis-Kondylis, Laurent Augusto, Mark Bakker, Lucie Bon, Bastien Castagneyrol, Coralie Chesseron, Adèle Courbineau, Léa Danies, Léa Delmas, Nicolas Fanin, Nathalie Gallegos, Ulysse Gaudaré, Julien Hennequart, Hervé Jactel, Marko Kvakic, Cathy Lambrot, Soline Martin-Blangy, Kathina Müssig, Sylvie Milin, Sylvie Niollet, Maëva Pastoret, Christophe Poilleux, Pierre Pujos, Pablo Raguet, Laura Scolan, Pierre Trichet, and David Vidal. 
+
+Additional thanks to Wolfgang Wanek (TER, University of Vienna) for help with method development. 
 
 
 ### IDENT, Sault Ste. Marie, ON Canada 
@@ -52,13 +54,13 @@ More information about this field site [here](http://www.treedivnet.ugent.be/Exp
 	<a height="400" href="/img/july_traps.jpg"><img src="/img/july_traps.jpg"></a>
     <a height="400" href="/img/july_alison.jpg"><img src="/img/july_alison.jpg"></a>
     <a height="400" href="/img/july_me.jpg"><img src="/img/july_me.jpg"></a>
-    <figcaption> (A) Litter traps sitting in a birch-maple plot. (B) Sampling pine needles and (C) larch needles early August for nutrient analyses. </figcaption>
+    <figcaption> (A) Litter traps sitting in a birch-maple plot. (B) Sampling larch needles and (C) pine needles early August for nutrient analyses. </figcaption>
 </figure>   
 
 <figure class="half">
 	<a height="400" href="/img/ssm_team_may.jpg"><img src="/img/ssm_team_may.jpg"></a>
     <a height="400" href="/img/ssm_team_nov.jpg"><img src="/img/ssm_team_nov.jpg"></a>
-    <figcaption> (A) Post-bear training with the field work team, saying "Woah Bear". (B) Might November field team, who braved the -18°C and early snow to recover the ion-exchange resins and litter traps. </figcaption>
+    <figcaption> (A) Post-bear training with the field work team, saying "Woah Bear". (B) Mighty November field team, who braved the -18°C and early snow to recover the ion-exchange resins and litter traps. </figcaption>
 </figure>  
 
 Another big thank you to the team in Canada: Bill Parker and Matt (Ontario Forest Research Institute), Ariane Belleau, Marie Coyea, Marie-Laurence Dame, Raphael Gaudreau, Patrick Leclerc, Alison Munson, Clémentine Pernot, Manuella Strukelj-Humphery (Laval University), Benoit Gendreau-Berthiaume (Institut des Sciences de la Forêt tempérée), and Laura Rose (Freiburg University). 
