@@ -12,7 +12,7 @@ title: "Publications"
 
 **Maxwell TL**, Augusto L, Bon L, Courbineau A, Altinalmazis-Kondylis A, Milin S, Bakker MR, Jactel H, & Fanin N (2020). Effect of a tree mixture and water availability on soil nutrients and extracellular enzyme activities along the soil profile in an experimental forest. _Soil Biology and Biochemistry_ 148, 107864. <https://doi.org/10.1016/j.soilbio.2020.107864>
 
-**Maxwell TL**, Bazot S, Pinek L, Marmagne A, Laffont B, Vincent G, & Barthes L (2020). In situ fate of mineral N in the tree-soil-microorganism system before and after budburst in 20-year-old _Quercus petraea_ (Matt.) Liebl. _Plant and Soil_. <https://doi.org/10.1007/s11104-020-04610-4>
+**Maxwell TL**, Bazot S, Pinek L, Marmagne A, Laffont B, Vincent G, & Barthes L (2020). In situ fate of mineral N in the tree-soil-microorganism system before and after budburst in 20-year-old _Quercus petraea_ (Matt.) Liebl. _Plant and Soil_ 455, 425–438. <https://doi.org/10.1007/s11104-020-04610-4>
 
 Fanin N, **Maxwell TL**, Altinalmazis-Kondylis A, Bon L, Meredieu C, Jactel H, Bakker MR, & Augusto L (Under Review). Tree species mixture and high water availability increase soil carbon stocks in a temperate podzol.  
 
@@ -22,6 +22,8 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 
 ### Talks
 <br>
+
+**Maxwell, TL** et al. Effect of water availability and tree diversity on nutrient resorption efficiency in young plantations, British Ecological Society [Festival of Ecology](https://www.britishecologicalsociety.org/events/festival-of-ecology/). [Online](https://www.youtube.com/watch?v=0JVmuGSupHQ), December 2020. 
 
 **Maxwell, TL**. Basic Steps for Effective Data Visualization, Quebec Center for Biodiversity Sciences [R symposium](https://wiki.qcbs.ca/r_symposium_2019). Gault Nature Reserve, Canada, 11 October 2019.
 

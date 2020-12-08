@@ -29,7 +29,7 @@ More information about this field site [here](https://sites.google.com/view/orph
     <figcaption> (A) Soil incubation core. (B & C) Recovered ion-exchange resin after its six month incubation. </figcaption>
 </figure>   
 
-Big thank you to all from the INRAE team, who helped for both field and lab work: Malika Aimaiti, Andreas Altinalmazis-Kondylis, Laurent Augusto, Mark Bakker, Lucie Bon, Bastien Castagneyrol, Coralie Chesseron, Adèle Courbineau, Léa Danies, Léa Delmas, Nicolas Fanin, Nathalie Gallegos, Ulysse Gaudaré, Julien Hennequart, Hervé Jactel, Marko Kvakic, Cathy Lambrot, Soline Martin-Blangy, Kathina Müssig, Sylvie Milin, Sylvie Niollet, Maëva Pastoret, Christophe Poilleux, Pierre Pujos, Pablo Raguet, Laura Scolan, Pierre Trichet, and David Vidal. 
+Big thank you to all from the INRAE team, who helped for both field and lab work: Malika Aimaiti, Andreas Altinalmazis-Kondylis, Laurent Augusto, Mark Bakker, Lucie Bon, Bastien Castagneyrol, Coralie Chesseron, Adèle Courbineau, Léa Danies, Léa Delmas, Nicolas Fanin, Nathalie Gallegos, Ulysse Gaudaré, Céline Gire, Julien Hennequart, Hervé Jactel, Marko Kvakic, Cathy Lambrot, Soline Martin-Blangy, Kathina Müssig, Sylvie Milin, Sylvie Niollet, Maëva Pastoret, Christophe Poilleux, Pierre Pujos, Pablo Raguet, Bruno Ringeval, Laura Scolan, Pierre Trichet, and David Vidal. 
 
 Additional thanks to Wolfgang Wanek (TER, University of Vienna) for help with method development. 
 
