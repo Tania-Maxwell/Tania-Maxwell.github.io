@@ -6,6 +6,8 @@ title: "Awards & Grants"
 ---
 <br>
 
+2020 | Prix Acfas Ressources naturelles ([award description](https://www.acfas.ca/prix-concours/prix-acfas/2020/prix-ressources-naturelles/tania-maxwell)) | ![](/img/acfas_logo.jpg){:style="float: right"}
+
 2020 | Center for Forest Research, Conference Travel Grant | ![](/img/cfr_logo.png){:style="float: right"}
 
 2020-2021  | France-Austria Collaboration Research Travel Grant | ![](/img/WTZ_Logo.png){:style="float: right"}![](/img/campus-france_logo.png){:style="float: right"} 

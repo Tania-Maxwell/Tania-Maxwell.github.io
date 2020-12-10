@@ -23,7 +23,7 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 ### Talks
 <br>
 
-**Maxwell, TL** et al. Effect of water availability and tree diversity on nutrient resorption efficiency in young plantations, British Ecological Society [Festival of Ecology](https://www.britishecologicalsociety.org/events/festival-of-ecology/). [Online](https://www.youtube.com/watch?v=0JVmuGSupHQ), December 2020. 
+**Maxwell, TL** et al. Effect of water availability and tree diversity on nutrient resorption efficiency in young plantations, British Ecological Society [Festival of Ecology](https://www.britishecologicalsociety.org/events/festival-of-ecology/). [Watch online](https://www.youtube.com/watch?v=0JVmuGSupHQ), December 2020. 
 
 **Maxwell, TL**. Basic Steps for Effective Data Visualization, Quebec Center for Biodiversity Sciences [R symposium](https://wiki.qcbs.ca/r_symposium_2019). Gault Nature Reserve, Canada, 11 October 2019.
 
