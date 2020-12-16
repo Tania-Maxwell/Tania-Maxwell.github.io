@@ -6,7 +6,7 @@ title: "Awards & Grants"
 ---
 <br>
 
-2020 | Prix Acfas Ressources naturelles ([award description](https://www.acfas.ca/prix-concours/prix-acfas/2020/prix-ressources-naturelles/tania-maxwell)) | ![](/img/acfas_logo.jpg){:style="float: right"}
+2020 | Prix Acfas Ressources naturelles (links to the [award description](https://www.acfas.ca/prix-concours/prix-acfas/2020/prix-ressources-naturelles/tania-maxwell) and [press release](https://nouvelles.ulaval.ca/recherche/michel-boivin-real-vallee-et-tania-maxwell-honores-par-lacfas-a62bacc148c767b97ca839d04506459a?utm_campaign=ulaval&utm_medium=article_share&utm_source=twitter)) | ![](/img/acfas_logo.jpg){:style="float: right"}
 
 2020 | Center for Forest Research, Conference Travel Grant | ![](/img/cfr_logo.png){:style="float: right"}
 

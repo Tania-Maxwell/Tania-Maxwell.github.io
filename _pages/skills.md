@@ -7,7 +7,7 @@ toc: true
 
 ### <i class="fas fa-laptop-code"></i> Computing skills
 
-|- **R** -  Data analysis, programming, statistics & data visualization, RStudio, RMarkdown, ggplot2, dplyr, tidyr, forcats, lme4, nlme
+|- **R** -  Data analysis, programming, statistics & data visualization, RStudio, RMarkdown, ggplot2, dplyr, tidyr, forcats, vegan, lme4, nlme
 |- **Tools** - Git & Github, ArcGIS
 |- **Basics** - Python, ULM, Matlab, HTML
 
@@ -20,7 +20,7 @@ toc: true
 
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
-2020 | _Workshop Leader_ "Efficient and reproducible data analysis in R", British Ecological Society Annual Meeting, Dec. 15<sup>th</sup> 
+2020 | _Workshop co-leader_ "Efficient and reproducible data analysis in R", British Ecological Society online [Festival of Ecology](https://www.britishecologicalsociety.org/events/festival-of-ecology/workshops/), Dec. 15<sup>th</sup>. Slides available [here](https://github.com/Tania-Maxwell/BES2020_workshop_R).  
 
 2020 | _Lecturer_ "Biodiversity-Ecosystem Functioning", Ecosystem-based management undergraduate course, Laval University, Nov. 19<sup>th</sup> 
 
