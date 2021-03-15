@@ -20,6 +20,8 @@ toc: true
 
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
+2021 | _Lecturer_ "Soil Ecology", Master Ecotoxicology, University of Bordeaux, March 23<sup>rd</sup> 2020 & March 3<sup>rd</sup> 2021
+
 2020 | _Workshop co-leader_ "Efficient and reproducible data analysis in R", British Ecological Society online [Festival of Ecology](https://www.britishecologicalsociety.org/events/festival-of-ecology/workshops/), Dec. 15<sup>th</sup>. Slides available [here](https://github.com/Tania-Maxwell/BES2020_workshop_R).  
 
 2020 | _Lecturer_ "Biodiversity-Ecosystem Functioning", Ecosystem-based management undergraduate course, Laval University, Nov. 19<sup>th</sup> 
@@ -28,22 +30,22 @@ toc: true
 
 2020 | _Jury Member_ "Agriculture and Global Change", Bordeaux Sciences Agro, Sept. 18<sup>th</sup> 
 
-2020 | _Lecturer_ "Soil Ecology", Master Ecotoxicology, University of Bordeaux, March 23<sup>rd</sup> 
-
 2019 | _Instructor_, Quebec Center for Biodiversity Sciences [R workshop series](https://wiki.qcbs.ca/r), Laval University
 
 ### <i class="fas fa-comments"></i> Outreach
 
+2021 | _Finalist_ University of Bordeaux Finale MT180s (My PhD in 180 seconds), March 5<sup>th</sup>
+
+{% include video id="-oZDfIA3pr8" provider="youtube" %}
+
 2020 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, University of Bordeaux, May 26<sup>th</sup> (_canceled_)
 
-2020 | _Jury Prize Laureate_ University of Bordeaux Finale MT180s (My PhD in 180 seconds), March 10<sup>th</sup>
-
-{% include video id="0rGPKait_-g" provider="youtube" %}
+2020 | _Jury Prize Laureate_ University of Bordeaux Finale MT180s (My PhD in 180 seconds), March 10<sup>th</sup> ([link](https://www.youtube.com/watch?v=0rGPKait_-g) to video)
 
 
 ### <i class="fas fa-users"></i> Leadership 
 
-2020 | _Organization co-leader_ Lab-overarching R discussion network for PhD students
+2020 - 2021 | _Organization co-leader_ Lab-overarching R discussion network for PhD students
 
 2019 | _Vice-President_ Graduate Students in Forestry Club, Laval University
 
