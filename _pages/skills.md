@@ -34,14 +34,15 @@ toc: true
 
 ### <i class="fas fa-comments"></i> Outreach
 
+2021 | _Podcast guest_ "Thèse et vous!" Episode 18 (coming late september). Outreach series discussing various PhD topics (episodes [here](https://podcast.ausha.co/these-et-vous)). 
+
+2021 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, University of Bordeaux, May 26<sup>th</sup> 2020 & May 27<sup>th</sup> 2021 (_canceled_)
+
 2021 | _Finalist_ University of Bordeaux Finale MT180s (My PhD in 180 seconds), March 5<sup>th</sup>
 
 {% include video id="-oZDfIA3pr8" provider="youtube" %}
 
-2020 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, University of Bordeaux, May 26<sup>th</sup> (_canceled_)
-
 2020 | _Jury Prize Laureate_ University of Bordeaux Finale MT180s (My PhD in 180 seconds), March 10<sup>th</sup> ([link](https://www.youtube.com/watch?v=0rGPKait_-g) to video)
-
 
 ### <i class="fas fa-users"></i> Leadership 
 

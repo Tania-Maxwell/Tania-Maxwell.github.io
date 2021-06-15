@@ -10,15 +10,17 @@ title: "Publications"
 ### Journal Articles
 <br>
 
-**Maxwell TL**, Augusto L, Bon L, Courbineau A, Altinalmazis-Kondylis A, Milin S, Bakker MR, Jactel H, & Fanin N (2020). Effect of a tree mixture and water availability on soil nutrients and extracellular enzyme activities along the soil profile in an experimental forest. _Soil Biology and Biochemistry_ 148, 107864. <https://doi.org/10.1016/j.soilbio.2020.107864>
+6\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (Submitted). Tree species dominance drives nutrient use efficiency in mixed stands, at both high and low water availability. 
 
-**Maxwell TL**, Bazot S, Pinek L, Marmagne A, Laffont B, Vincent G, & Barthes L (2020). In situ fate of mineral N in the tree-soil-microorganism system before and after budburst in 20-year-old _Quercus petraea_ (Matt.) Liebl. _Plant and Soil_ 455, 425–438. <https://doi.org/10.1007/s11104-020-04610-4>
+5\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (Submitted). Major shift from plant to microbial control of soil organic nitrogen processes with differing global change drivers in a montane grassland.   
 
-Fanin N, **Maxwell TL**, Altinalmazis-Kondylis A, Bon L, Meredieu C, Jactel H, Bakker MR, & Augusto L (Under Review). Tree species mixture and high water availability increase soil carbon stocks in a temperate podzol.  
+4\. Fanin N, **Maxwell TL**, Altinalmazis-Kondylis A, Bon L, Meredieu C, Jactel H, Bakker MR, & Augusto L (2021). Effects of mixing tree species and water availability on soil organic carbon stocks are depth-dependent in a temperate podzol.  _European Journal of Soil Science_. <https://doi.org/10.1111/ejss.13133>
 
-**Maxwell TL**, Noll L, Canarini A, [...] & Wanek W (In Preparation). Effect of global change drivers on soil organic nitrogen processes in a montane grassland.  
+3\. **Maxwell TL**, Augusto L, Bon L, Courbineau A, Altinalmazis-Kondylis A, Milin S, Bakker MR, Jactel H, & Fanin N (2020). Effect of a tree mixture and water availability on soil nutrients and extracellular enzyme activities along the soil profile in an experimental forest. _Soil Biology and Biochemistry_ 148, 107864. <https://doi.org/10.1016/j.soilbio.2020.107864>
 
-Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & Pigage HK (2019). Host biology and environmental variables differentially predict flea abundances for two rodent hosts in a lague-relevant system. _International Journal for Parasitology: Parasites and Wildlife_, 9, 174–183. <https://doi.org/10.1016/j.ijppaw.2019.04.011>
+2\. **Maxwell TL**, Bazot S, Pinek L, Marmagne A, Laffont B, Vincent G, & Barthes L (2020). In situ fate of mineral N in the tree-soil-microorganism system before and after budburst in 20-year-old _Quercus petraea_ (Matt.) Liebl. _Plant and Soil_ 455, 425–438. <https://doi.org/10.1007/s11104-020-04610-4>
+
+1\. Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & Pigage HK (2019). Host biology and environmental variables differentially predict flea abundances for two rodent hosts in a plague-relevant system. _International Journal for Parasitology: Parasites and Wildlife_, 9, 174–183. <https://doi.org/10.1016/j.ijppaw.2019.04.011>
 
 ### Talks
 <br>
@@ -32,6 +34,7 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 <p align="center">
   <img width="600" src="/img/EGU_presentation.png">
 </p>
+
 
 ### Referee activity 
 
