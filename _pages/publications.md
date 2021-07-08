@@ -10,9 +10,9 @@ title: "Publications"
 ### Journal Articles
 <br>
 
-6\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (Submitted). Tree species dominance drives nutrient use efficiency in mixed stands, at both high and low water availability. 
+6\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (Under Review). Tree species dominance drives nutrient use efficiency in mixed stands, at both high and low water availability. 
 
-5\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (Submitted). Major shift from plant to microbial control of soil organic nitrogen processes with differing global change drivers in a montane grassland.   
+5\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (Under Review). Major shift from plant to microbial control of soil organic nitrogen processes with differing global change drivers in a montane grassland.   
 
 4\. Fanin N, **Maxwell TL**, Altinalmazis-Kondylis A, Bon L, Meredieu C, Jactel H, Bakker MR, & Augusto L (2021). Effects of mixing tree species and water availability on soil organic carbon stocks are depth-dependent in a temperate podzol.  _European Journal of Soil Science_. <https://doi.org/10.1111/ejss.13133>
 
@@ -25,11 +25,11 @@ title: "Publications"
 ### Talks
 <br>
 
-**Maxwell, TL** et al. Effect of water availability and tree diversity on nutrient resorption efficiency in young plantations, British Ecological Society [Festival of Ecology](https://www.britishecologicalsociety.org/events/festival-of-ecology/). [Watch online](https://www.youtube.com/watch?v=0JVmuGSupHQ), December 2020. 
+3\. **Maxwell, TL** et al. Effect of water availability and tree diversity on nutrient resorption efficiency in young plantations, British Ecological Society [Festival of Ecology](https://www.britishecologicalsociety.org/events/festival-of-ecology/). [Watch online](https://www.youtube.com/watch?v=0JVmuGSupHQ), December 2020. 
 
-**Maxwell, TL**. Basic Steps for Effective Data Visualization, Quebec Center for Biodiversity Sciences [R symposium](https://wiki.qcbs.ca/r_symposium_2019). Gault Nature Reserve, Canada, 11 October 2019.
+2\. **Maxwell, TL**. Basic Steps for Effective Data Visualization, Quebec Center for Biodiversity Sciences [R symposium](https://wiki.qcbs.ca/r_symposium_2019). Gault Nature Reserve, Canada, 11 October 2019.
 
-**Maxwell, TL** et al. Effect of water supply on the tree biodiversity - soil nutrient availability relationship in forests along the soil profile, [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2019/orals/30819). Vienna, Austria, 12 April 2019. 
+1\. **Maxwell, TL** et al. Effect of water supply on the tree biodiversity - soil nutrient availability relationship in forests along the soil profile, [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU2019/orals/30819). Vienna, Austria, 12 April 2019. 
 
 <p align="center">
   <img width="600" src="/img/EGU_presentation.png">
