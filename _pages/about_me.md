@@ -3,11 +3,11 @@ permalink: /about_me/
 author_profile: true
 title: "Welcome!"
 ---
-<img align="right" src="/img/pic_scotora_website_mini.png"> I am a final-year PhD student at the French National Research Institute for Agriculture, Food and Environment ([INRAE](https://www.inrae.fr/en/centers/nouvelle-aquitaine-bordeaux)), completing a double-degree program focused on Biogeochemistry and Ecosystems at the [Université de Bordeaux](https://ed-environnements.u-bordeaux.fr/), and Forest Sciences at the [Université Laval](https://www.sbf.ulaval.ca/doctorat-en-sciences-forestieres) in Quebec, Canada. 
+<img align="right" src="/img/pic_scotora_website_mini.png"> I am a soon-to-be PhD at the French National Research Institute for Agriculture, Food and Environment ([INRAE](https://www.inrae.fr/en/centers/nouvelle-aquitaine-bordeaux)), completing a double-degree program focused on Biogeochemistry and Ecosystems at the [Université de Bordeaux](https://ed-environnements.u-bordeaux.fr/), and Forest Sciences at the [Université Laval](https://www.sbf.ulaval.ca/doctorat-en-sciences-forestieres) in Quebec, Canada. 
 
 <br>
 
-My professional interests include soil ecology, biogeochemistry, forests, global changes, R and coding. For my PhD project, I am investigating the interactive effects of tree diversity and water availability on nutrient cycling in forests, under the supervision of [Laurent Augusto](https://www6.bordeaux-aquitaine.inrae.fr/ispa_eng/Research/ISPA-teams/BIONUT-Group/BIONUT-Group/AUGUSTO-Laurent) and [Nicolas Fanin](https://www6.bordeaux-aquitaine.inrae.fr/ispa_eng/Research/ISPA-teams/BIONUT-Group/BIONUT-Group/FANIN-Nicolas) at INRAE, and [Alison Munson](https://www.cef-cfr.ca/index.php?n=Membres.AlisonMunson) at the Université Laval. We are working on two unique sites within the Tree Diversity Network which manipulate both tree diversity and water availability: [ORPHEE](https://sites.google.com/view/orpheeexperiment/home) in Southwestern France (left/top) and [IDENT](http://www.treedivnet.ugent.be/ExpIDENT.html) in Sault-Ste.-Marie, Ontario, Canada (right/bottom). To find out more about my project, [click here](https://tania-maxwell.github.io/research/).  
+My professional interests include forest ecology, biodiversity, soils biogeochemistry, global changes, R, data analysis and reproducible coding. For my PhD project, I investigated the interactive effects of tree diversity and water availability on nutrient cycling in forests, under the supervision of [Laurent Augusto](https://www6.bordeaux-aquitaine.inrae.fr/ispa_eng/Research/ISPA-teams/BIONUT-Group/BIONUT-Group/AUGUSTO-Laurent) and [Nicolas Fanin](https://www6.bordeaux-aquitaine.inrae.fr/ispa_eng/Research/ISPA-teams/BIONUT-Group/BIONUT-Group/FANIN-Nicolas) at INRAE, and [Alison Munson](https://www.cef-cfr.ca/index.php?n=Membres.AlisonMunson) at the Université Laval. We worked on two unique sites within the Tree Diversity Network which manipulate both tree diversity and water availability: [ORPHEE](https://sites.google.com/view/orpheeexperiment/home) in Southwestern France (left/top) and [IDENT](http://www.treedivnet.ugent.be/ExpIDENT.html) in Sault-Ste.-Marie, Ontario, Canada (right/bottom). To find out more about my project, [click here](https://tania-maxwell.github.io/research/).  
 
 <figure class="half">
     <a height="400" href="/img/orphee_laurent.jpg"><img src="/img/orphee_laurent.jpg"></a>
@@ -18,7 +18,7 @@ I obtained my Bachelor's degree in Integrative Biology at the [University of Cal
 
 <br>
 
-Aside from working and learning, I enjoy other nature activities (hiking, camping and backpacking), playing various sports (rugby, soccer, volleyball), cooking, and commuting by bike. One of my proudest achievements was completing the John Muir Trail (California Sierra Mountains) in 2018 with a good friend, a 210 mi/370km three-week backpacking trip ending with a sunrise summit of Mt. Whitney. 
+Aside from working and learning, I enjoy other nature activities (hiking, camping and backpacking), playing various sports (rugby, soccer, volleyball), gardening, and commuting by bike. One of my proudest achievements was completing the John Muir Trail (California Sierra Mountains) in 2018 with a good friend, a 210 mi/370km three-week backpacking trip ending with a sunrise summit of Mt. Whitney. 
 
 <figure class="third">
 	<a height="400" href="/img/jmt1.jpg"><img src="/img/jmt1.jpg"></a>
