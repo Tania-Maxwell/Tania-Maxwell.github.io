@@ -34,7 +34,9 @@ toc: true
 
 ### <i class="fas fa-comments"></i> Outreach
 
-2021 | _Podcast guest_ "Thèse et vous!" Episode coming early October. Outreach series discussing various PhD topics (episodes [here](https://podcast.ausha.co/these-et-vous)). 
+2021 | _Presenter_ European Researchers Night, Cap Sciences Bordeaux, Sept. 24<sup>th</sup> 2021
+
+2021 | _Podcast guest_ "Thèse et vous!" Episode coming late 2021. Outreach series discussing various PhD topics (episodes [here](https://podcast.ausha.co/these-et-vous)). 
 
 2021 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, University of Bordeaux, May 26<sup>th</sup> 2020 & May 27<sup>th</sup> 2021 (_canceled_)
 
