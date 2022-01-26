@@ -11,9 +11,11 @@ title: "Publications"
 ### Journal Articles
 <br>
 
-6\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (Under Review). Tree species dominance drives nutrient use efficiency in young mixed-species plantations, at both high and low water availability. 
+7\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (Under Review). Tree species dominance drives nutrient use efficiency in young mixed-species plantations, at both high and low water availability. 
 
-5\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (2022). Major shift from plant to microbial control of soil organic nitrogen processes with differing global change drivers in a montane grassland. _Global Change Biology_. <https://doi.org/10.1111/gcb.16035>  
+6\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (2022). Major shift from plant to microbial control of soil organic nitrogen processes with differing global change drivers in a montane grassland. _Global Change Biology_. <https://doi.org/10.1111/gcb.16035>  
+
+5\. **Maxwell TL** (2021). Interaction between tree diversity and water availability on nutrient cycling in forests. Doctoral thesis, _Université de Bordeaux_ & _Université Laval_. Link [here](https://scholar.google.at/citations?view_op=view_citation&hl=en&user=BnCknmEAAAAJ&citation_for_view=BnCknmEAAAAJ:IjCSPb-OGe4C). 
 
 4\. Fanin N, **Maxwell TL**, Altinalmazis-Kondylis A, Bon L, Meredieu C, Jactel H, Bakker MR, & Augusto L (2021). Effects of mixing tree species and water availability on soil organic carbon stocks are depth-dependent in a temperate podzol.  _European Journal of Soil Science_. <https://doi.org/10.1111/ejss.13133>
 
