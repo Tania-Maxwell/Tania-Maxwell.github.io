@@ -47,11 +47,11 @@ social:
 author:
   name             : "\n"
   avatar           : "/img/pic_scotora_website.png"
-  bio              : "PhD student at INRAE"
-  location         : "Bordeaux, France & Quebec, Canada"
+  bio              : "Postdoctoral Research Associate"
+  location         : "University of Cambridge, UK"
   email            :
   links:
-    - label: "tania.maxwell at inrae.fr"
+    - label: "tlgm2 at cam.ac.uk"
       icon: "fas fa-fw fa-envelope"
       url: "\n"
     - label: "Website"
