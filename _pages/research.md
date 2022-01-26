@@ -6,6 +6,10 @@ toc_float: true
 title: "Research"
 ---
 
+### Postdoc
+
+My current project is looking into global modelling and mapping of soil carbon in salt marshes (_more information to come_). 
+
 ### PhD Project
 
 Forests are major terrestrial ecosystems that provide a multitude of ecosystem functions and services, such as biomass production, nutrient cycling and carbon storage. In this project, I aimed to determine the potential interactive effect between tree diversity and water availability on nutrient cycling in forests. To do so, two common garden sites belonging to the worldwide Tree Diversity Network (TreeDivNet) were studied : [ORPHEE](https://sites.google.com/view/orpheeexperiment/home) in Southwestern France and [IDENT](http://www.treedivnet.ugent.be/ExpIDENT.html) in Sault-Ste.-Marie, Ontario, Canada. Both of these experimental sites manipulate tree diversity (species richness and functional diversity), and water resource (irrigation, with additional rain exclusion in Canada). For additional pictures of the field sites, click [here](https://tania-maxwell.github.io/docs/field_pictures/). 
