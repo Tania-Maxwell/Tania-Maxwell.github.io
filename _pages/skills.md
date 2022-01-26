@@ -20,6 +20,8 @@ toc: true
 
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
+2022 | _Course Supervisor_ "Applied Ecology", Part II Zoology, University of Cambridge, eight supervisions x 2 groups (Lent term). 
+
 2021 | _Course Developer and Instructor_ "R basics, tidyverse and statistical testing", Master Biology Agrosciences, University of Bordeaux, five lectures x 2h each in person (Fall 2020 and Fall 2021). Slides and Rmarkdown documents available [here](https://github.com/Tania-Maxwell/R-course-2021).
 
 2021 | _Jury Member_ "Agriculture and Global Change", Bordeaux Sciences Agro, 3h in person (Sept. 18<sup>th</sup> 2020 & Sept. 24<sup>th</sup> 2021).
@@ -34,9 +36,9 @@ toc: true
 
 ### <i class="fas fa-comments"></i> Outreach
 
-2021 | _Presenter_ European Researchers Night, Cap Sciences Bordeaux, Sept. 24<sup>th</sup> 2021.
+2022 | _Podcast guest_ "Thèse et vous!" Episode coming February 2022. Outreach series discussing various PhD topics (episodes [here](https://podcast.ausha.co/these-et-vous)). 
 
-2021 | _Podcast guest_ "Thèse et vous!" Episode coming early 2022. Outreach series discussing various PhD topics (episodes [here](https://podcast.ausha.co/these-et-vous)). 
+2021 | _Presenter_ European Researchers Night, Cap Sciences Bordeaux, Sept. 24<sup>th</sup> 2021.
 
 2021 | _Invited presenter_ "Biodiversité dans mon établissement" High School Outreach Conference, University of Bordeaux, May 26<sup>th</sup> 2020 & May 27<sup>th</sup> 2021 (_canceled_).
 
