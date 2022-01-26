@@ -8,15 +8,12 @@ title: "Publications"
 ---
 
 
-**Ecology Across Borders 2021** 
-BES/SFE² joint conference, Dec 12-15 2021, Liverpool, UK. [Poster here](/docs/Maxwell_poster_BES_2021.pdf).
-
 ### Journal Articles
 <br>
 
-6\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (Under Review). Tree species dominance drives nutrient use efficiency in mixed stands, at both high and low water availability. 
+6\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (Under Review). Tree species dominance drives nutrient use efficiency in young mixed-species plantations, at both high and low water availability. 
 
-5\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (Accepted, _Global Change Biology_). Major shift from plant to microbial control of soil organic nitrogen processes with differing global change drivers in a montane grassland.   
+5\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (2022). Major shift from plant to microbial control of soil organic nitrogen processes with differing global change drivers in a montane grassland. _Global Change Biology_. <https://doi.org/10.1111/gcb.16035>  
 
 4\. Fanin N, **Maxwell TL**, Altinalmazis-Kondylis A, Bon L, Meredieu C, Jactel H, Bakker MR, & Augusto L (2021). Effects of mixing tree species and water availability on soil organic carbon stocks are depth-dependent in a temperate podzol.  _European Journal of Soil Science_. <https://doi.org/10.1111/ejss.13133>
 
@@ -38,6 +35,12 @@ BES/SFE² joint conference, Dec 12-15 2021, Liverpool, UK. [Poster here](/docs/M
 <p align="center">
   <img width="600" src="/img/EGU_presentation.png">
 </p>
+
+
+### Posters
+<br>
+
+1\. **Maxwell, TL** et al. Tree species composition and nutrient uptake drive soil nutrient availability in a temperate podzol, even under contrasted levels of water availability, BES/SFE² joint conference, Ecology Across Borders, Dec 12-15 2021, Liverpool, UK. [Poster here](/docs/Maxwell_poster_BES_2021.pdf).
 
 
 ### Referee activity 
