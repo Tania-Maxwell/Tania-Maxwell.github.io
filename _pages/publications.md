@@ -27,6 +27,14 @@ title: "Publications"
 
 1\. Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & Pigage HK (2019). Host biology and environmental variables differentially predict flea abundances for two rodent hosts in a plague-relevant system. _International Journal for Parasitology: Parasites and Wildlife_, 9, 174–183. <https://doi.org/10.1016/j.ijppaw.2019.04.011>
 
+
+### Data and code
+<br>
+
+2\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (2022). Raw data and associated scripts of a study dedicated to the effect of tree diversity and water availability on nutrient use efficiency in forests. _Will be available upon paper publication_.
+
+1\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (2021). Belowground nitrogen cycling in a montane grassland exposed to elevated CO2, warming and drought (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5597021
+
 ### Talks
 <br>
 
