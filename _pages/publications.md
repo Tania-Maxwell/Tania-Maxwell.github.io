@@ -11,7 +11,7 @@ title: "Publications"
 ### Journal Articles
 <br>
 
-8\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (Under Review). Tree species dominance drives nutrient use efficiency in young mixed-species plantations, at both high and low water availability. 
+8\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (Accepted, _Functional Ecology_). Tree species identity drives nutrient use efficiency in young mixed-species plantations, at both high and low water availability. 
 
 7\. Fanin N, Mooshammer M, Sauvadet M, Meng C, Alvarez G, Bernard L, Bertrand I, Blagodatskaya E, Bon L, Fontaine S, Niu S, Lashermes G, **Maxwell TL**, Weintraub M, Wingate L, Moorhead D & Nottingham A. Soil enzymes in response to climate warming: mechanisms and feedbacks. _Functional Ecology_. <https://doi.org/10.1111/1365-2435.14027>
 
@@ -31,9 +31,9 @@ title: "Publications"
 ### Data and code
 <br>
 
-2\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (2022). Raw data and associated scripts of a study dedicated to the effect of tree diversity and water availability on nutrient use efficiency in forests. _Will be available upon paper publication_.
+2\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (2022). Raw data and associated scripts of a study dedicated to the effect of tree diversity and water availability on nutrient use efficiency in forests [Data set]. Portail Data INRAE. <https://doi.org/10.15454/FWC5LP>
 
-1\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (2021). Belowground nitrogen cycling in a montane grassland exposed to elevated CO2, warming and drought (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5597021
+1\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (2021). Belowground nitrogen cycling in a montane grassland exposed to elevated CO2, warming and drought (v1.0) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.5597021>
 
 ### Talks
 <br>
