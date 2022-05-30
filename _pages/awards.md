@@ -6,6 +6,8 @@ title: "Awards & Grants"
 ---
 <br>
 
+2022 | Université Laval Honour [List](https://www.fesp.ulaval.ca/en/faculty/roll-honor)
+
 2021 | Sciences and environments doctoral school, Conference Travel Grant
 
 2021 | *Forests* 2021 Travel Award ([announcement](https://www.mdpi.com/journal/forests/awards/1006)) | ![](/img/forests_logo.png){:style="float: right"}
