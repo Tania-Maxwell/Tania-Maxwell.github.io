@@ -18,6 +18,19 @@ toc: true
 |- Spanish (fluent)
 |- German (intermediate)
 
+### <i class="fas fa-users"></i> Leadership 
+
+2022 - now | _Organization co-leader_ Coding Club, Cambridge Conservartion Initiative & Department of Zoology
+
+2022 - now | _Member_ Postdoc Committee, Department of Zoology 
+
+2022 - now | _College Research Associate_ Wolfson College Cambridge
+
+2020 - 2021 | _Organization co-leader_ Lab-overarching R discussion network for PhD students
+
+2019 | _Vice-President_ Graduate Students in Forestry Club, Laval University
+
+
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
 2022 | _Course Supervisor_ "Applied Ecology", Part II Zoology, University of Cambridge, eight supervisions x 2 groups (Lent term). 
@@ -34,6 +47,7 @@ toc: true
 
 2019 | _Lead presenter_, Quebec Center for Biodiversity Sciences [R workshop series](https://wiki.qcbs.ca/r), Laval University, two workshops x 4h each in person (Fall 2019).
 
+
 ### <i class="fas fa-comments"></i> Outreach
 
 2022 | _Podcast guest_ "Thèse et vous!" Episode coming February 2022. Outreach series discussing various PhD topics (episodes [here](https://podcast.ausha.co/these-et-vous)). 
@@ -48,11 +62,6 @@ toc: true
 
 2020 | _Jury Prize Laureate_ University of Bordeaux Finale MT180s (My PhD in 180 seconds), March 10<sup>th</sup> ([link](https://www.youtube.com/watch?v=0rGPKait_-g) to video).
 
-### <i class="fas fa-users"></i> Leadership 
-
-2020 - 2021 | _Organization co-leader_ Lab-overarching R discussion network for PhD students
-
-2019 | _Vice-President_ Graduate Students in Forestry Club, Laval University
 
 ### <i class="fas fa-user-graduate"></i> Supervision
 
