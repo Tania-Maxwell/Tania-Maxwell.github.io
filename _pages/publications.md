@@ -11,7 +11,9 @@ title: "Publications"
 ### Journal Articles
 <br>
 
-8\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (Accepted, _Functional Ecology_). Tree species identity drives nutrient use efficiency in young mixed-species plantations, at both high and low water availability. 
+9\. Mahmud M, **Maxwell TL**, Cueff S, Schroeder R, Bazot S, Delpierre N, Marmagne A, Vincent G & Barthes L (Accepted, _Plant and Soil_). Recently absorbed nitrogen incorporates into new and old tissues: evidence from a <sup>15</sup>N-labelling experiment in deciduous oaks.
+
+8\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (2022). Tree species identity drives nutrient use efficiency in young mixed-species plantations, at both high and low water availability. _Functional Ecology_. <https://doi.org/10.1111/1365-2435.14109>
 
 7\. Fanin N, Mooshammer M, Sauvadet M, Meng C, Alvarez G, Bernard L, Bertrand I, Blagodatskaya E, Bon L, Fontaine S, Niu S, Lashermes G, **Maxwell TL**, Weintraub M, Wingate L, Moorhead D & Nottingham A. Soil enzymes in response to climate warming: mechanisms and feedbacks. _Functional Ecology_. <https://doi.org/10.1111/1365-2435.14027>
 
