@@ -6,6 +6,8 @@ title: "Awards & Grants"
 ---
 <br>
 
+2022 | University of Cambridge, Charles Slater Travel Fund
+
 2022 | Université Laval Honour [List](https://www.fesp.ulaval.ca/en/faculty/roll-honor)
 
 2021 | Sciences and environments doctoral school, Conference Travel Grant
