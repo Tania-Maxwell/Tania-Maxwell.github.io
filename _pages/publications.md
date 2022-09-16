@@ -11,6 +11,8 @@ title: "Publications"
 ### Journal Articles
 <br>
 
+10\. **Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N. Decreased soil water availability decelerates soil organic nitrogen processing, and influences tree mixing effects (_Under Review_). 
+
 9\. Mahmud M, **Maxwell TL**, Cueff S, Schroeder R, Bazot S, Delpierre N, Marmagne A, Vincent G & Barthes L (2022). Recently absorbed nitrogen incorporates into new and old tissues: evidence from a <sup>15</sup>N-labelling experiment in deciduous oaks. _Plant and Soil_. <https://doi.org/10.1007/s11104-022-05589-w>
 
 8\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (2022). Tree species identity drives nutrient use efficiency in young mixed-species plantations, at both high and low water availability. _Functional Ecology_. <https://doi.org/10.1111/1365-2435.14109>
@@ -32,6 +34,8 @@ title: "Publications"
 
 ### Data and code
 <br>
+
+3.\  **Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N. Effect of tree species mixing and water availability on soil organic nitrogen processing (v1.0) [Data set]. Zenodo. _Released upon paper publication_
 
 2\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (2022). Raw data and associated scripts of a study dedicated to the effect of tree diversity and water availability on nutrient use efficiency in forests [Data set]. Portail Data INRAE. <https://doi.org/10.15454/FWC5LP>
 
