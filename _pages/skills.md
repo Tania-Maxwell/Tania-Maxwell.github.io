@@ -22,9 +22,13 @@ toc: true
 
 2022 - now | _Organization co-leader_ Coding Club, Cambridge Conservartion Initiative & Department of Zoology
 
+2022 - now | _College Research Associate_ Wolfson College, Cambridge
+
+2022 - now | _Member_ Open Research and Library Services Committee, Department of Zoology 
+
 2022 - now | _Member_ Postdoc Committee, Department of Zoology 
 
-2022 - now | _College Research Associate_ Wolfson College Cambridge
+2022 - now | _Data Champion_ University of Cambridge ([info](https://www.data.cam.ac.uk/intro-data-champions))
 
 2020 - 2021 | _Organization co-leader_ Lab-overarching R discussion network for PhD students
 
@@ -34,6 +38,8 @@ toc: true
 ### <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
 2022 - 2023 | _Student_ "Postgraduate Certificate in Teaching and Learning in Higher Education", University of Cambridge
+
+2022 | _Lecturer_ "Reproducible Research", Part II Zoology Seminar Series, University of Cambridge, 1h in person (Oct 11<sup>th</sup> 2022).
 
 2022 | _Course Supervisor_ "Applied Ecology", Part II Zoology, University of Cambridge, eight supervisions x 2 groups (Lent term). 
 
