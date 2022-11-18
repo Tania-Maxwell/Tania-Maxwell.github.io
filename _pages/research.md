@@ -8,7 +8,16 @@ title: "Research"
 
 ### Postdoc
 
-My current project is looking into global modelling and mapping of soil carbon in salt marshes (_more information to come_). 
+Tidal marshes are an extensive coastal vegetal system with a strong capacity as a carbon sink, and that effective action on climate change includes a priority to protect, enhance and restore natural carbon sinks, it is thus crucial to quantify the current soil carbon stocks in this ecosystem. The purpose of my current research is thus to generate the **first global map of soil carbon in tidal marshes**.
+
+To do so, I will employ a variety of data extraction, modelling and analysis methods. The first step has been to complete a systematic review of the current literature to develop a training dataset of soil carbon in tidal marshes throughout the world. I am currently working with an international group of experts in marsh ecology and remote sensing, to help determine the key landscape-level environmental drivers of this soil carbon. This includes, for example, the inclusion of flow accumulation, elevation, tidal amplitude, and various climatic variables. Once the final covariates have been developed in Google Earth Engine, I will test and train a model to predict soil carbon in 3D using machine learning methods in R. Then, using available global layers of each covariate, I will be able to map tidal marsh soil carbon predictions and their uncertainties at the global scale. 
+
+<p align="center">
+  <img width="600" src="/img/marsh_ML_methods.png">
+</p>
+
+Importantly, I plan to build the model and the global map in a way that is easily updateable when new information becomes available. Indeed, in the research are of global mapping, we are confronted with a need to update maps, to avoid previous versions becoming out of date. This may be because the covariate layers have been updated or that more soil carbon stocks have been quantified, for example making the training data more reliable. This would be especially true in areas where we previously had few or no data points, and the addition of extra training data would be of great use to improve the model.
+
 
 ### PhD Project
 
@@ -22,7 +31,7 @@ Forests are major terrestrial ecosystems that provide a multitude of ecosystem f
 </figure>
 
 
-When looking at belowground nutrient cycling, we found that high water availability increased organic matter breakdown, by extracellular enzymes and protein depolymerization (Maxwell et al. _in prep_), while it decreased net nutrient mineralization. An effect of mixing tree species was only detected in the mid soil layer, where we observed a higher amount of organic matter and enzyme activities compared to the monocultures ([Maxwell et al. 2020](https://doi.org/10.1016/j.soilbio.2020.107864)). When experimentally investigating nutrient uptake, we observed an asynchrony of uptake during budburst: at this phenological stage, the evergreen species (pine) was able to take up nutrients earlier than the deciduous species (birch), with an advantage and a disadvantage respectively for nitrogen uptake in the mixed plots (Maxwell et al. _in prep_). Finally, we found that species identity was a stronger driver than species diversity for aboveground nutrient use efficiency (NutUE). Although increasing tree species tended to increase aboveground productivity and litterfall biomass, certain species dominance drove NutUE trends (i.e. birch dominance over pine at IDENT-SSM and pine over birch at ORPHEE, Maxwell et al. _under review_). 
+When looking at belowground nutrient cycling, we found that high water availability increased organic matter breakdown, by extracellular enzymes and protein depolymerization (Maxwell et al. _under review_), while it decreased net nutrient mineralization. An effect of mixing tree species was only detected in the mid soil layer, where we observed a higher amount of organic matter and enzyme activities compared to the monocultures ([Maxwell et al. 2020](https://doi.org/10.1016/j.soilbio.2020.107864)). When experimentally investigating nutrient uptake, we observed an asynchrony of uptake during budburst: at this phenological stage, the evergreen species (pine) was able to take up nutrients earlier than the deciduous species (birch), with an advantage and a disadvantage respectively for nitrogen uptake in the mixed plots (Maxwell et al. _in prep_). Finally, we found that species identity was a stronger driver than species diversity for aboveground nutrient use efficiency (NutUE). Although increasing tree species tended to increase aboveground productivity and litterfall biomass, certain species dominance drove NutUE trends (i.e. birch dominance over pine at IDENT-SSM and pine over birch at ORPHEE, [Maxwell et al. 2022](https://doi.org/10.1111/1365-2435.14109)). 
 
 
 <p align="center">
@@ -33,7 +42,7 @@ In summary,surface soil biogeochemical processes were driven by water availabili
 
 ### MSc Thesis (Project II)
 
-For my Master's thesis, I spent six months with the [Terrestrial Ecosystem Research](https://ter.csb.univie.ac.at/) team at the University of Vienna, supervised by [Wolfgang Wanek](https://ter.csb.univie.ac.at/people/wolfgang-wanek). During this time, I investigated the effect of the global changes on gross organic nitrogen processes. To do so, soil samples were collected from a global change facility in a managed montane grassland in Austria that had been simulating elevated CO<sub>2</sub> and temperature for four years, with an additional drought and rewetting treatment. I measured gross protein depolymerization and amino acid utilization rates using a novel high throughoutput isotope pool dilution approach ([Noll et al. 2019](https://doi.org/10.1016/j.soilbio.2018.12.005)). I am continuing to collaborated with Prof. Wanek and carried out a two-month stay in the TER lab in January and February 2021, to measure gross organic nitrogen rates in the context of my PhD project, and to finalize the paper from my Master's thesis. 
+For my Master's thesis, I spent six months with the [Terrestrial Ecosystem Research](https://ter.csb.univie.ac.at/) team at the University of Vienna, supervised by [Wolfgang Wanek](https://ter.csb.univie.ac.at/people/wolfgang-wanek). During this time, I investigated the effect of the global changes on gross organic nitrogen processes. To do so, soil samples were collected from a global change facility in a managed montane grassland in Austria that had been simulating elevated CO<sub>2</sub> and temperature for four years, with an additional drought and rewetting treatment. I measured gross protein depolymerization and amino acid utilization rates using a novel high throughoutput isotope pool dilution approach ([Noll et al. 2019](https://doi.org/10.1016/j.soilbio.2018.12.005)). I continued to collaborated with Prof. Wanek and carried out a two-month stay in the TER lab in January and February 2021, to measure gross organic nitrogen rates in the context of my PhD project, and to finalize the paper from my Master's thesis ([Maxwell et al. 2022](https://doi.org/10.1111/gcb.16035)). 
 
 <p align="center">
   <img width="600" src="/img/climgrass.png">
@@ -43,7 +52,7 @@ For my Master's thesis, I spent six months with the [Terrestrial Ecosystem Resea
 
 ### Master Project I
 
-For my first year Master's project, we simultaneously quantified the fate of a soil applied <sup>15</sup>N solution incorporated into different tree compartments (fine roots, medium roots, xylem, phloem, branches, leaves), extractable soil, and the microbial biomass at several time points before and after budburst in mature oak trees. During this project, I helped with sample preparation (grinding + microcapsule weighing), data analyses, and writing. Before and after budburst, we found that the microbial compartment was the main pool of the recovered <sup>15</sup>N, and yet the soil-absorbed <sup>15</sup>N still significantly contributed to the new leaf nitrogen pool at budburst. Find out more [here](https://doi.org/10.1007/s11104-020-04610-4).
+For my first year Master's project, we simultaneously quantified the fate of a soil applied <sup>15</sup>N solution incorporated into different tree compartments (fine roots, medium roots, xylem, phloem, branches, leaves), extractable soil, and the microbial biomass at several time points before and after budburst in mature oak trees. During this project, I helped with sample preparation (grinding + microcapsule weighing), data analyses, and writing. Before and after budburst, we found that the microbial compartment was the main pool of the recovered <sup>15</sup>N, and yet the soil-absorbed <sup>15</sup>N still significantly contributed to the new leaf nitrogen pool at budburst. Find out more [here](https://doi.org/10.1007/s11104-020-04610-4) and [here](https://doi.org/10.1007/s11104-022-05589-w).
 
 <figure class="third">
 	<a height="400"  href="/img/labo15N_1.jpg"><img src="/img/labo15N_1.jpg"></a>
