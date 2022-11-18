@@ -3,7 +3,7 @@ permalink: /about_me/
 author_profile: true
 title: "Welcome!"
 ---
-<img align="right" src="/img/pic_scotora_website_mini.png"> I am a Postdoctoral Research Associate in the [Conservation Science Group](https://www.zoo.cam.ac.uk/directory/conservation-science-group-members) at the Department of Zoology of the University of Cambridge. Alongside [Tom Worthington](https://www.zoo.cam.ac.uk/directory/dr-thomas-worthington) and many others, I am currently working on global modelling and mapping of soil carbon in salt marshes.
+<img align="right" src="/img/pic_scotora_website_mini.png"> I am a Postdoctoral Research Associate in the [Global Coastal Wetlands](https://www.globalcoastalwetlands.com/) team of the [Conservation Science Group](https://www.zoo.cam.ac.uk/directory/conservation-science-group-members) at the Department of Zoology of the University of Cambridge. Alongside [Tom Worthington](https://www.zoo.cam.ac.uk/directory/dr-thomas-worthington) and many others, I am currently working on global modelling and mapping of soil carbon in tidal marshes.
 
 <br>
 
