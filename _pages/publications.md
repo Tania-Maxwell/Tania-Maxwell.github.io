@@ -35,14 +35,16 @@ title: "Publications"
 ### Data and code
 <br>
 
-3.\  **Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N. Effect of tree species mixing and water availability on soil organic nitrogen processing (v1.0) [Data set]. Zenodo. _Released upon paper publication_
+3\.  **Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N. Effect of tree species mixing and water availability on soil organic nitrogen processing (v1.0) [Data set]. Zenodo. _Released upon paper publication_
 
 2\. **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (2022). Raw data and associated scripts of a study dedicated to the effect of tree diversity and water availability on nutrient use efficiency in forests [Data set]. Portail Data INRAE. <https://doi.org/10.15454/FWC5LP>
 
 1\. **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (2021). Belowground nitrogen cycling in a montane grassland exposed to elevated CO2, warming and drought (v1.0) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.5597021>
 
-### Talks
+### Talks and posters
 <br>
+
+**Talks**
 
 3\. **Maxwell, TL** et al. Effect of water availability and tree diversity on nutrient resorption efficiency in young plantations, British Ecological Society [Festival of Ecology](https://www.britishecologicalsociety.org/events/festival-of-ecology/). [Watch online](https://www.youtube.com/watch?v=0JVmuGSupHQ), December 2020. 
 
@@ -55,12 +57,11 @@ title: "Publications"
 </p>
 
 
-### Posters
-<br>
+**Posters**
 
 1\. **Maxwell, TL** et al. Tree species composition and nutrient uptake drive soil nutrient availability in a temperate podzol, even under contrasted levels of water availability, BES/SFE² joint conference, Ecology Across Borders, Dec 12-15 2021, Liverpool, UK. [Poster here](/docs/Maxwell_poster_BES_2021.pdf).
 
 
 ### Referee activity 
 
-Journal referee: _Ecology and Evolution_  
+Journal referee: _Ecology and Evolution_, _Conservation Biology_  
