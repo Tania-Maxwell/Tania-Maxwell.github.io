@@ -13,7 +13,7 @@ title: "Publications"
 
 **2023** 
 
-**Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N. Water availability is a stronger driver of soil microbial processing of organic nitrogen than tree species composition (Accepted, _European Journal of Soil Science_). 
+**Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N (2023). Water availability is a stronger driver of soil microbial processing of organic nitrogen than tree species composition. _European Journal of Soil Science_. <https://doi.org/10.1111/ejss.13350>
 
 **2022** 
 
