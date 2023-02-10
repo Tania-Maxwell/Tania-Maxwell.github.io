@@ -43,7 +43,7 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 ### Data and code
 <br>
 
- **Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N. Water availability is a stronger driver of soil microbial processing of organic nitrogen than tree species composition (v1.0) [Data set]. Zenodo. _Released upon paper publication_
+ **Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N. Data and code from "Water availability is a stronger driver of soil microbial processing of organic nitrogen than tree species composition" (v1.0) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.7025493>
 
 **Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (2022). Raw data and associated scripts of a study dedicated to the effect of tree diversity and water availability on nutrient use efficiency in forests [Data set]. Portail Data INRAE. <https://doi.org/10.15454/FWC5LP>
 
