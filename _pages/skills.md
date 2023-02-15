@@ -7,9 +7,9 @@ toc: true
 
 ### <i class="fas fa-laptop-code"></i> Computing skills
 
-|- **R** -  Data analysis, programming, statistics & data visualization, RStudio, RMarkdown, ggplot2, dplyr, forcats, vegan, lme4, nlme, multcomp
+|- **R** -  Data analysis, programming, statistics & data visualization, RMarkdown, tidyverse, vegan, lme4, nlme, multcomp, terra, sf, caret, cast
 |- **Tools** - Git & Github, QGIS, Google Earth Engine
-|- **Basics** - Python, ULM, Matlab, HTML
+|- **Basics** - Python, Unix, Matlab, HTML
 
 ### <i class="fas fa-globe-europe"></i> Languages
 
