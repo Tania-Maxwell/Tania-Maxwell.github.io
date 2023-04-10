@@ -54,6 +54,8 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 
 **Talks**
 
+**Maxwell TL** et al. Global map of soil carbon in tidal marshes, [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU23/session/44975). Vienna, Austria, 27 April 2023.
+
 **Maxwell TL** et al. Effect of water availability and tree diversity on nutrient resorption efficiency in young plantations, British Ecological Society [Festival of Ecology](https://www.britishecologicalsociety.org/events/festival-of-ecology/). [Watch online](https://www.youtube.com/watch?v=0JVmuGSupHQ), December 2020. 
 
 **Maxwell TL**. Basic Steps for Effective Data Visualization, Quebec Center for Biodiversity Sciences [R symposium](https://wiki.qcbs.ca/r_symposium_2019). Gault Nature Reserve, Canada, 11 October 2019.
@@ -76,4 +78,4 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 
 ### Referee activity 
 
-Journal referee: _Ecology and Evolution_, _Conservation Biology_  
+Journal referee: _Ecology and Evolution_, _Conservation Biology_, _Canadian Journal of Forest Research_, _Science of the Total Environment_  
