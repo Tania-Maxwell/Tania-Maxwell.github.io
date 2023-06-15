@@ -13,7 +13,7 @@ title: "Publications"
 
 **2023** 
 
-Worthington TA, Spalding M, Landis E, **Maxwell TL**, Navarro A, Smart LS & Murray NJ. 2023. The distribution of global tidal marshes from earth observation data. _bioRxiv_. <https://doi.org/10.1101/2023.05.26.542433>
+Worthington TA, Spalding M, Landis E, **Maxwell TL**, Navarro A, Smart LS & Murray NJ (2023). The distribution of global tidal marshes from earth observation data. _bioRxiv_. <https://doi.org/10.1101/2023.05.26.542433>
 
 **Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N (2023). Water availability is a stronger driver of soil microbial processing of organic nitrogen than tree species composition. _European Journal of Soil Science_. <https://doi.org/10.1111/ejss.13350>
 
@@ -44,6 +44,8 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 
 ### Data and code
 <br>
+
+Hengl T, **Maxwell TL** & Parente L (2018). Predicted soil organic carbon stock at 30 m in t/ha for 0-100 cm depth global / update of the map of mangrove forest soil carbon (v1.2) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.7727569>
 
  **Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N. Data and code from "Water availability is a stronger driver of soil microbial processing of organic nitrogen than tree species composition" (v1.0) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.7025493>
 
@@ -80,4 +82,4 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 
 ### Referee activity 
 
-Journal referee: _Ecology and Evolution_, _Conservation Biology_, _Canadian Journal of Forest Research_, _Science of the Total Environment_  
+Journal referee: _Canadian Journal of Forest Research_, _Conservation Biology_, _Ecology and Evolution_, _Science of the Total Environment_  
