@@ -13,13 +13,15 @@ title: "Publications"
 
 **2023** 
 
+Worthington TA, Spalding M, Landis E, **Maxwell TL**, Navarro A, Smart LS & Murray NJ. 2023. The distribution of global tidal marshes from earth observation data. _bioRxiv_. <https://doi.org/10.1101/2023.05.26.542433>
+
 **Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N (2023). Water availability is a stronger driver of soil microbial processing of organic nitrogen than tree species composition. _European Journal of Soil Science_. <https://doi.org/10.1111/ejss.13350>
 
 **2022** 
 
 Mahmud M, **Maxwell TL**, Cueff S, Schroeder R, Bazot S, Delpierre N, Marmagne A, Vincent G & Barthes L (2022). Recently absorbed nitrogen incorporates into new and old tissues: evidence from a <sup>15</sup>N-labelling experiment in deciduous oaks. _Plant and Soil_. <https://doi.org/10.1007/s11104-022-05589-w>
 
-**Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C, & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (2022). Tree species identity drives nutrient use efficiency in young mixed-species plantations, at both high and low water availability. _Functional Ecology_. <https://doi.org/10.1111/1365-2435.14109>
+**Maxwell TL**, Fanin N, Parker WC, Bakker MR, Belleau A, Meredieu C & Augusto L<sup>+</sup>, Munson AD<sup>+</sup> (2022). Tree species identity drives nutrient use efficiency in young mixed-species plantations, at both high and low water availability. _Functional Ecology_. <https://doi.org/10.1111/1365-2435.14109>
 
 Fanin N, Mooshammer M, Sauvadet M, Meng C, Alvarez G, Bernard L, Bertrand I, Blagodatskaya E, Bon L, Fontaine S, Niu S, Lashermes G, **Maxwell TL**, Weintraub M, Wingate L, Moorhead D & Nottingham A (2022). Soil enzymes in response to climate warming: mechanisms and feedbacks. _Functional Ecology_. <https://doi.org/10.1111/1365-2435.14027>
 
