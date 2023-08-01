@@ -7,9 +7,9 @@ toc: true
 
 ### <i class="fas fa-laptop-code"></i> Computing skills
 
-|- **R** -  Data analysis, programming, statistics & data visualization, RMarkdown, tidyverse, vegan, lme4, nlme, multcomp, terra, sf, caret, cast
-|- **Tools** - Git & Github, QGIS, Google Earth Engine
-|- **Basics** - Python, Unix, Matlab, HTML
+|- **R** -  Data analysis, programming, statistics & data visualization, RMarkdown, tidyverse, vegan, lme4, nlme, multcomp, terra, sf, raster, caret, CAST
+|- **Tools** - Git & Github, QGIS, Google Earth Engine, Snakemake workflow manager
+|- **Basics** - Python, Unix, Matlab, HTML, JavaScript 
 
 ### <i class="fas fa-globe-europe"></i> Languages
 
