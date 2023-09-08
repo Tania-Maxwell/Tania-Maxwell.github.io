@@ -7,9 +7,10 @@ toc: true
 
 ### <i class="fas fa-laptop-code"></i> Computing skills
 
-|- **R** -  Data analysis, programming, statistics & data visualization, RMarkdown, tidyverse, vegan, lme4, nlme, multcomp, terra, sf, raster, caret, CAST
-|- **Tools** - Git & Github, QGIS, Google Earth Engine, Snakemake workflow manager
-|- **Basics** - Python, Unix, Matlab, HTML, JavaScript 
+|- **Languages** - R, JavaScript, Python, bash, markdown, HTML 
+|- **HPC** - snakemake workflow management, slurm
+|- **Infrastructure** - git, Github, conda 
+|- **Tools** - Google Earth Engine, QGIS, Inkscape 
 
 ### <i class="fas fa-globe-europe"></i> Languages
 
@@ -20,15 +21,15 @@ toc: true
 
 ### <i class="fas fa-users"></i> Leadership 
 
-2022 - now | _Organization co-leader_ Coding Club, Cambridge Conservartion Initiative & Department of Zoology
+2022 - 2023 | _Organization co-leader_ Coding Club, Cambridge Conservartion Initiative & Department of Zoology
 
-2022 - now | _College Research Associate_ Wolfson College, Cambridge
+2022 - 2023 | _College Research Associate_ Wolfson College, Cambridge
 
-2022 - now | _Member_ Open Research and Library Services Committee, Department of Zoology 
+2022 - 2023 | _Member_ Open Research and Library Services Committee, Department of Zoology 
 
-2022 - now | _Member_ Postdoc Committee, Department of Zoology 
+2022 - 2023 | _Member_ Postdoc Committee, Department of Zoology 
 
-2022 - now | _Data Champion_ University of Cambridge ([info](https://www.data.cam.ac.uk/intro-data-champions))
+2022 - 2023 | _Data Champion_ University of Cambridge ([info](https://www.data.cam.ac.uk/intro-data-champions))
 
 2020 - 2021 | _Organization co-leader_ Lab-overarching R discussion network for PhD students
 
