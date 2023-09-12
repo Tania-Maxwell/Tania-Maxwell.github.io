@@ -8,6 +8,8 @@ title: "Awards & Grants"
 
 2023 | French Academy of Agriculture excellent PhD thesis analysis (published [online in French](https://www.academie-agriculture.fr/system/files_force/academiciens_ecrivent/2023/20230614thesetaniamaxwellsite.pdf?download=1))
 
+2022 | University of Cambridge, Charles Slater Travel Fund
+
 2022 | Université Laval Honour [List](https://www.fesp.ulaval.ca/en/faculty/roll-honor)
 
 2021 | Sciences and environments doctoral school, Conference Travel Grant
