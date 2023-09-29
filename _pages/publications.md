@@ -13,6 +13,8 @@ title: "Publications"
 
 **2023** 
 
+**Maxwell TL**<sup>+</sup>, Hengl T<sup>+</sup>, Parente LL, Minarik R, Worthington TA, Bunting P, Smart LS, Spalding MD & Landis E (2023). Global mangrove soil organic carbon stocks dataset at 30 m resolution for the year 2020 based on spatiotemporal predictive machine learning. _Data in Brief_. <https://doi.org/10.1016/j.dib.2023.109621>
+
 Worthington TA, Spalding M, Landis E, **Maxwell TL**, Navarro A, Smart LS & Murray NJ (2023). The distribution of global tidal marshes from earth observation data. _bioRxiv_. <https://doi.org/10.1101/2023.05.26.542433>
 
 **Maxwell TL**, Augusto L, Tian Y, Wanek W & Fanin N (2023). Water availability is a stronger driver of soil microbial processing of organic nitrogen than tree species composition. _European Journal of Soil Science_. <https://doi.org/10.1111/ejss.13350>
