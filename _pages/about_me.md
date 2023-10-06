@@ -3,7 +3,7 @@ permalink: /about_me/
 author_profile: true
 title: "Welcome!"
 ---
-<img align="right" src="/img/pic_scotora_website_mini.png"> I am a Postdoctoral Research Associate in the [Global Coastal Wetlands](https://www.globalcoastalwetlands.com/) team of the [Conservation Science Group](https://www.zoo.cam.ac.uk/directory/conservation-science-group-members) at the Department of Zoology of the University of Cambridge. Alongside [Tom Worthington](https://www.zoo.cam.ac.uk/directory/dr-thomas-worthington) and many others, I am currently working on global modelling and mapping of soil carbon in tidal marshes.
+<img align="right" src="/img/pic_scotora_website_mini.png"> I am a Research Scholar in the [Biodiversity, Ecology, and Conservation](https://iiasa.ac.at/programs/bnr/bec) group of the International Institute of Applied Systems Analysis (IIASA) in Austria, working on the [RESIST](https://iiasa.ac.at/projects/resist) project with [Florian Hofhansl](https://iiasa.ac.at/staff/florian-hofhansl). I recently finished a postdoc in the [Global Coastal Wetlands](https://www.globalcoastalwetlands.com/) team of the [Conservation Science Group](https://www.zoo.cam.ac.uk/directory/conservation-science-group-members) at the Department of Zoology of the University of Cambridge. I am currently also finalizing our project working on a global model and map of soil carbon in tidal marshes.
 
 <br>
 
