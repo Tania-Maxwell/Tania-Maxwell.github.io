@@ -47,11 +47,11 @@ social:
 author:
   name             : "\n"
   avatar           : "/img/pic_scotora_website.png"
-  bio              : "Postdoctoral Research Associate"
-  location         : "University of Cambridge, UK"
+  bio              : "Research Scholar"
+  location         : "IIASA, Vienna, Austria"
   email            :
   links:
-    - label: "tlgm2 at cam.ac.uk"
+    - label: "maxwell at iiasa.ac.at"
       icon: "fas fa-fw fa-envelope"
       url: "\n"
     - label: "Website"
