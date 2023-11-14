@@ -13,6 +13,8 @@ title: "Publications"
 
 **2023** 
 
+**Maxwell TL**, Rovai AS, Adame MF, Adams JB, Álvarez-Rogel J, Austin WEN, Beasy K, Boscutti F, Böttcher ME, Bouma TJ, Bulmer RH, Burden A, Burke SA, Camacho S, Chaudhary D, Chmura GL, Copertino M, Cott GM, Craft C, Day J, de los Santos CB, Ding W, Denis L, Ellison JC, Ewers Lewis CJ, Giani L, Gispert M, Gontharet S, González-Pérez JA, González-Alcaraz MN, Gorham C, Graversen AE, Grey A, Guerra R, He Q, Holmquist JR, Jones AR, Juanes JA, Kelleher BP, Kohfeld K, Krause-Jensen D, Lafratta A, Lavery PS, Laws EA, Leiva-Dueñas C, Loh PS, Lovelock CE, Lundquist CJ, Macreadie PI, Mazarrasa I, Megonigal JP, Neto JM, Nogueira J, Osland MJ, Pagès JF, Perera N, Pfeiffer E-M, Pollmann T, Raw JL, Recio M, Ruiz-Fernández AC, Russell SK, Rybczyk JM, Sammul M, Sanders C, Santos R, Serrano O, Siewert M, Smeaton C, Song Z, Trasar-Cepeda C, Twilley RR, Van de Broek M, Vitti S, Vittori Antisari L, Voltz B, Wails C, Ward RD, Ward M, Wolfe J, Yang R, Zubrzycki S, Landis E, Smart LS, Spalding MD, and Worthington TA (2023). Global dataset of soil organic carbon in tidal marshes. _Scientific Data_. <https://doi.org/10.1038/s41597-023-02633-x>
+
 **Maxwell TL**<sup>+</sup>, Hengl T<sup>+</sup>, Parente LL, Minarik R, Worthington TA, Bunting P, Smart LS, Spalding MD & Landis E (2023). Global mangrove soil organic carbon stocks dataset at 30 m resolution for the year 2020 based on spatiotemporal predictive machine learning. _Data in Brief_. <https://doi.org/10.1016/j.dib.2023.109621>
 
 Worthington TA, Spalding M, Landis E, **Maxwell TL**, Navarro A, Smart LS & Murray NJ (2023). The distribution of global tidal marshes from earth observation data. _bioRxiv_. <https://doi.org/10.1101/2023.05.26.542433>
@@ -46,6 +48,8 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 
 ### Data and code
 <br>
+
+**Maxwell TL**, Rovai AS, Adame MF, Adams JB, Álvarez-Rogel J, Austin WEN, Beasy K, Boscutti F, Böttcher ME, Bouma TJ, Bulmer RH, Burden A, Burke SA, Camacho S, Chaudhary D, Chmura GL, Copertino M, Cott GM, Craft C, Day J, de los Santos CB, Ding W, Denis L, Ellison JC, Ewers Lewis CJ, Giani L, Gispert M, Gontharet S, González-Pérez JA, González-Alcaraz MN, Gorham C, Graversen AE, Grey A, Guerra R, He Q, Holmquist JR, Jones AR, Juanes JA, Kelleher BP, Kohfeld K, Krause-Jensen D, Lafratta A, Lavery PS, Laws EA, Leiva-Dueñas C, Loh PS, Lovelock CE, Lundquist CJ, Macreadie PI, Mazarrasa I, Megonigal JP, Neto JM, Nogueira J, Osland MJ, Pagès JF, Perera N, Pfeiffer E-M, Pollmann T, Raw JL, Recio M, Ruiz-Fernández AC, Russell SK, Rybczyk JM, Sammul M, Sanders C, Santos R, Serrano O, Siewert M, Smeaton C, Song Z, Trasar-Cepeda C, Twilley RR, Van de Broek M, Vitti S, Vittori Antisari L, Voltz B, Wails C, Ward RD, Ward M, Wolfe J, Yang R, Zubrzycki S, Landis E, Smart LS, Spalding MD, and Worthington TA (2023). Database: Tidal Marsh Soil Organic Carbon {{(MarSOC)}} Dataset (v1.0) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.8414110>
 
 Hengl T, **Maxwell TL** & Parente L (2018). Predicted soil organic carbon stock at 30 m in t/ha for 0-100 cm depth global / update of the map of mangrove forest soil carbon (v1.2) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.7727569>
 
