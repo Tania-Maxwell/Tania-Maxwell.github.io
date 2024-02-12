@@ -88,4 +88,4 @@ Hengl T, **Maxwell TL** & Parente L (2018). Predicted soil organic carbon stock 
 
 ### Referee activity 
 
-Journal referee: _Canadian Journal of Forest Research_, _Conservation Biology_, _Ecology and Evolution_, _Science of the Total Environment_  
+Journal referee: _Canadian Journal of Forest Research_, _Conservation Biology_, _Ecology and Evolution_, _Science of the Total Environment_, _Biogeosciences_  
