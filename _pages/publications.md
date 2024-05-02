@@ -11,9 +11,13 @@ title: "Publications"
 ### Journal Articles
 <br>
 
+**2024**
+
+**Maxwell TL**, Spalding MD, Friess DA, Murray NJ, Rogers K, Rovai AS, Smart LS, Weilguny L, Adame MF, Adams JB, Copertino MS, Cott GM, Duarte de Paula Costa M, Holmquist JR, Ladd CJT, Lovelock CE, Ludwig M, Moritsch MM, Navarro A, Raw JL, Ruiz-Fernández AC, Serrano O, Smeaton C, Van de Broek M, Windham-Myers L, Landis E, & Worthington TA (2024). Soil carbon in the world's tidal marshes. _bioRxiv_. <https://doi.org/10.1101/2024.04.26.590902>
+
 **2023** 
 
-**Maxwell TL**, Rovai AS, Adame MF, Adams JB, Álvarez-Rogel J, Austin WEN, Beasy K, Boscutti F, Böttcher ME, Bouma TJ, Bulmer RH, Burden A, Burke SA, Camacho S, Chaudhary D, Chmura GL, Copertino M, Cott GM, Craft C, Day J, de los Santos CB, Ding W, Denis L, Ellison JC, Ewers Lewis CJ, Giani L, Gispert M, Gontharet S, González-Pérez JA, González-Alcaraz MN, Gorham C, Graversen AE, Grey A, Guerra R, He Q, Holmquist JR, Jones AR, Juanes JA, Kelleher BP, Kohfeld K, Krause-Jensen D, Lafratta A, Lavery PS, Laws EA, Leiva-Dueñas C, Loh PS, Lovelock CE, Lundquist CJ, Macreadie PI, Mazarrasa I, Megonigal JP, Neto JM, Nogueira J, Osland MJ, Pagès JF, Perera N, Pfeiffer E-M, Pollmann T, Raw JL, Recio M, Ruiz-Fernández AC, Russell SK, Rybczyk JM, Sammul M, Sanders C, Santos R, Serrano O, Siewert M, Smeaton C, Song Z, Trasar-Cepeda C, Twilley RR, Van de Broek M, Vitti S, Vittori Antisari L, Voltz B, Wails C, Ward RD, Ward M, Wolfe J, Yang R, Zubrzycki S, Landis E, Smart LS, Spalding MD, and Worthington TA (2023). Global dataset of soil organic carbon in tidal marshes. _Scientific Data_. <https://doi.org/10.1038/s41597-023-02633-x>
+**Maxwell TL**, Rovai AS, Adame MF, Adams JB, Álvarez-Rogel J, Austin WEN, Beasy K, Boscutti F, Böttcher ME, Bouma TJ, Bulmer RH, Burden A, Burke SA, Camacho S, Chaudhary D, Chmura GL, Copertino M, Cott GM, Craft C, Day J, de los Santos CB, Ding W, Denis L, Ellison JC, Ewers Lewis CJ, Giani L, Gispert M, Gontharet S, González-Pérez JA, González-Alcaraz MN, Gorham C, Graversen AE, Grey A, Guerra R, He Q, Holmquist JR, Jones AR, Juanes JA, Kelleher BP, Kohfeld K, Krause-Jensen D, Lafratta A, Lavery PS, Laws EA, Leiva-Dueñas C, Loh PS, Lovelock CE, Lundquist CJ, Macreadie PI, Mazarrasa I, Megonigal JP, Neto JM, Nogueira J, Osland MJ, Pagès JF, Perera N, Pfeiffer E-M, Pollmann T, Raw JL, Recio M, Ruiz-Fernández AC, Russell SK, Rybczyk JM, Sammul M, Sanders C, Santos R, Serrano O, Siewert M, Smeaton C, Song Z, Trasar-Cepeda C, Twilley RR, Van de Broek M, Vitti S, Vittori Antisari L, Voltz B, Wails C, Ward RD, Ward M, Wolfe J, Yang R, Zubrzycki S, Landis E, Smart LS, Spalding MD & Worthington TA (2023). Global dataset of soil organic carbon in tidal marshes. _Scientific Data_. <https://doi.org/10.1038/s41597-023-02633-x>
 
 **Maxwell TL**<sup>+</sup>, Hengl T<sup>+</sup>, Parente LL, Minarik R, Worthington TA, Bunting P, Smart LS, Spalding MD & Landis E (2023). Global mangrove soil organic carbon stocks dataset at 30 m resolution for the year 2020 based on spatiotemporal predictive machine learning. _Data in Brief_. <https://doi.org/10.1016/j.dib.2023.109621>
 
@@ -49,6 +53,8 @@ Hammond TT, Hendrickson CI, **Maxwell TL**, Petrosky AL, Palme R, Pigage JC, & P
 ### Data and code
 <br>
 
+**Maxwell TL**, Spalding MD, Friess DA, Murray NJ, Rogers K, Rovai AS, Smart LS, Weilguny L, Adame MF, Adams JB, Copertino MS, Cott GM, Duarte de Paula Costa M, Holmquist JR, Ladd CJT, Lovelock CE, Ludwig M, Moritsch MM, Navarro A, Raw JL, Ruiz-Fernández AC, Serrano O, Smeaton C, Van de Broek M, Windham-Myers L, Landis E, & Worthington TA (2024). Global soil organic carbon in tidal marshes version 1 [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.10940066>
+
 **Maxwell TL**, Rovai AS, Adame MF, Adams JB, Álvarez-Rogel J, Austin WEN, Beasy K, Boscutti F, Böttcher ME, Bouma TJ, Bulmer RH, Burden A, Burke SA, Camacho S, Chaudhary D, Chmura GL, Copertino M, Cott GM, Craft C, Day J, de los Santos CB, Ding W, Denis L, Ellison JC, Ewers Lewis CJ, Giani L, Gispert M, Gontharet S, González-Pérez JA, González-Alcaraz MN, Gorham C, Graversen AE, Grey A, Guerra R, He Q, Holmquist JR, Jones AR, Juanes JA, Kelleher BP, Kohfeld K, Krause-Jensen D, Lafratta A, Lavery PS, Laws EA, Leiva-Dueñas C, Loh PS, Lovelock CE, Lundquist CJ, Macreadie PI, Mazarrasa I, Megonigal JP, Neto JM, Nogueira J, Osland MJ, Pagès JF, Perera N, Pfeiffer E-M, Pollmann T, Raw JL, Recio M, Ruiz-Fernández AC, Russell SK, Rybczyk JM, Sammul M, Sanders C, Santos R, Serrano O, Siewert M, Smeaton C, Song Z, Trasar-Cepeda C, Twilley RR, Van de Broek M, Vitti S, Vittori Antisari L, Voltz B, Wails C, Ward RD, Ward M, Wolfe J, Yang R, Zubrzycki S, Landis E, Smart LS, Spalding MD, and Worthington TA (2023). Database: Tidal Marsh Soil Organic Carbon {{(MarSOC)}} Dataset (v1.0) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.8414110>
 
 Hengl T, **Maxwell TL** & Parente L (2018). Predicted soil organic carbon stock at 30 m in t/ha for 0-100 cm depth global / update of the map of mangrove forest soil carbon (v1.2) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.7727569>
@@ -59,10 +65,23 @@ Hengl T, **Maxwell TL** & Parente L (2018). Predicted soil organic carbon stock 
 
 **Maxwell TL**, Canarini A, Bogdanovic I, Böckle T, Martin V, Noll L, Prommer J, Séneca J, Simon E, Piepho H-P, Herndl M, Pötsch EM, Kaiser C, Richter A, Bahn M, & Wanek W (2021). Belowground nitrogen cycling in a montane grassland exposed to elevated CO2, warming and drought (v1.0) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.5597021>
 
+
+### Github repositories
+<br>
+
+**Maxwell TL**, Global marsh SOC modelling - scripts and data to model and map soil carbon in tidal marshes. <https://github.com/Tania-Maxwell/global-marshC-map>
+
+**Maxwell TL**, Tidal Marsh Soil Organic Carbon (MarSOC) Dataset. <https://github.com/Tania-Maxwell/MarSOC-Dataset>  
+
+
 ### Talks and posters
 <br>
 
 **Talks**
+
+**Maxwell TL** (keynote speaker) et al. Predicting global soil organic carbon dynamics in tidal marshes, [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU24/session/49860). Vienna, Austria, 17 April 2024. 
+
+ Stefaniak E, de Bruijn J, Smilovic M, Artuso S, Martin J, **Maxwell TL**, Joshi J & Hofhansl F. Modelling Water and Biodiversity: Coupling a dynamic eco-evolution trait-based vegetation model with a community water model, [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU24/session/48345). Vienna, Austria, 19 April 2024. 
 
 **Maxwell TL** et al. Global map of soil carbon in tidal marshes, [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU23/session/44975). Vienna, Austria, 27 April 2023.
 
@@ -78,6 +97,8 @@ Hengl T, **Maxwell TL** & Parente L (2018). Predicted soil organic carbon stock 
 
 
 **Posters**
+
+**Maxwell TL**, Stefaniak E, Hofhansl F & Joshi J. Incorporating roots into Plant-FATE, a dynamic eco-evolution trait-based vegetation model, [EGU General Assembly](https://meetingorganizer.copernicus.org/EGU24/session/49873). Vienna, Austria, 18 April 2024. 
 
 **Maxwell TL**,  et al. Tree species composition and nutrient uptake drive soil nutrient availability in a temperate podzol, even under contrasted levels of water availability, BES/SFE² joint conference, Ecology Across Borders, Dec 12-15 2021, Liverpool, UK. [Poster here](/docs/Maxwell_poster_BES_2021.pdf).
 
