@@ -57,9 +57,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://tania-maxwell.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tania_maxwell7"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-butterfly"
+      url: "https://bsky.app/profile/taniamaxwell.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tania-Maxwell"
@@ -75,8 +75,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tania-Maxwell"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tania_maxwell7"
+      icon: "fab fa-fw fa-butterfly"
+      url: "https://bsky.app/profile/taniamaxwell.bsky.social"
 
 
 # Reading Files
