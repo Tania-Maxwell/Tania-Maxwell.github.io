@@ -2,6 +2,6 @@ Tania L. Maxwell
 
 Email: maxwell [ ] iiasa [ ] ac [] at
 
-Twitter: [@tania_maxwell7](https://twitter.com/tania_maxwell7)
+Bluesky: [@taniamaxwell.bsky.social](https://bsky.app/profile/taniamaxwell.bsky.social)
 
 [Google scholar](https://scholar.google.com/citations?user=BnCknmEAAAAJ&hl=en)
