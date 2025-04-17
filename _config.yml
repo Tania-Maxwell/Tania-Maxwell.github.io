@@ -74,7 +74,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tania-Maxwell"
-    - label: "Twitter"
+    - label: "Bluesky"
       icon: "fab fa-fw fa-butterfly"
       url: "https://bsky.app/profile/taniamaxwell.bsky.social"
 
