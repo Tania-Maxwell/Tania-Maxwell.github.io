@@ -15,6 +15,8 @@ title: "Publications"
 
 Fanin N, Augusto L, Altinalmazis-Kondylis A, Bon L, Bourdin A, Hättenschwiler S, Martin-Blangy S, **Maxwell TL**, Meredieu C, Morin X, Plat N, Toïgo M, Jactel H & Bakker MR (2025). Soil secrets and tree tales: An in-depth comparison of carbon storage in mixed and pure stands of pine and birch. _Forest Ecology and Management_. <https://doi.org/10.1016/j.foreco.2025.122827>
 
+Langley A, Chapman S, Wang L, **Maxwell TL**, Rivera P, Adame F, Arias-Ortiz A, Asanopoulos C, Breithaupt J, Canty S, Chambers L, Cornwell J, Craft C, Cross S, Feller I, Friess D, Guntenspergen G, Holmquist J, Jones S, Jupin J, Kelleher B, Grey A, Kelleway J, Kirwan M, Krauss K, Lovelock C, McClellan SA, Megonigal J, Morris J, Neubauer S, Pastore M, Rogers K, Rovai A, Ruiz-Fernández AC, Saintilan N, Sanchez-Cabeza J, Simpson L, Smeaton C, Spivak A, Steinmuller H & Weston N. Blue nitrogen follows the fate of tidal wetlands (2025). _preprint_. <https://doi.org/10.21203/rs.3.rs-5522814/v1>
+
 **2024**
 
 **Maxwell TL**, Spalding MD, Friess DA, Murray NJ, Rogers K, Rovai AS, Smart LS, Weilguny L, Adame MF, Adams JB, Austin WEN, Copertino MS, Cott GM, Duarte de Paula Costa M, Holmquist JR, Ladd CJT, Lovelock CE, Ludwig M, Moritsch MM, Navarro A, Raw JL, Ruiz-Fernández AC, Serrano O, Smeaton C, Van de Broek M, Windham-Myers L, Landis E & Worthington TA (2024). Soil carbon in the world's tidal marshes. _Nature Communications_. <https://doi.org/10.1038/s41467-024-54572-9>
