@@ -47,11 +47,11 @@ social:
 author:
   name             : "\n"
   avatar           : "/img/pic_scotora_website.png"
-  bio              : "Research Scholar"
-  location         : "IIASA, Vienna, Austria"
+  bio              : "Associate Professor"
+  location         : "Université Paris-Saclay"
   email            :
   links:
-    - label: "maxwell at iiasa.ac.at"
+    - label: "tania.maxwell at universite-paris-saclay.fr"
       icon: "fas fa-fw fa-envelope"
       url: "\n"
     - label: "Website"
